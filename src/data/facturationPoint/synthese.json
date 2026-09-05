@@ -1,0 +1,882 @@
+{
+ "situationAu": "2024-02",
+ "valeurCible": 500000000,
+ "forfaitCoreCrewMensuel": 6000000,
+ "nbSitesCoreCrew": 2,
+ "forfaitMaterielMensuel": 1418250,
+ "nbSitesMateriel": 2,
+ "forfaitMaterielM3Mensuel": 720,
+ "partieVariableCoreCrew": {
+  "JANV": 24619105,
+  "FÉVR": 21872885,
+  "MARS": 38801760,
+  "AVR": 48354620,
+  "MAI": 58277184,
+  "JUIN": 32145642,
+  "JUIL": 54769614,
+  "AOÛT": 27693916,
+  "SEPT": 0,
+  "OCT": 0,
+  "NOV": -14836500,
+  "DÉC": -14836500
+ },
+ "sommeM3Pivot": 143382.39999999994,
+ "pivotServices": [
+  "CONSTRUCTION",
+  "EXP",
+  "METAL",
+  "OPP",
+  "SPE/MAI",
+  "TELECOM"
+ ],
+ "pivotRows": [
+  {
+   "label": "janv",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 52982150.39583333,
+    "EXP": 8061175.335,
+    "METAL": 8734148.53,
+    "OPP": 8580723.084999999,
+    "SPE/MAI": 2359793.1999999997,
+    "TELECOM": 342495.25
+   },
+   "total": 81060485.79583332
+  },
+  {
+   "label": "EOTP GA31 MDJ5314TCNE",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 1714025.4000000001
+   },
+   "total": 1714025.4000000001
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 32402028.53333333
+   },
+   "total": 32402028.53333333
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 18866096.462500002
+   },
+   "total": 18866096.462500002
+  },
+  {
+   "label": "YSMTAL01",
+   "niveau": "imputation",
+   "valeurs": {
+    "METAL": 8734148.53
+   },
+   "total": 8734148.53
+  },
+  {
+   "label": "GA31MDJ4105",
+   "niveau": "imputation",
+   "valeurs": {
+    "EXP": 8061175.335,
+    "OPP": 99225.00000000001,
+    "SPE/MAI": 2359793.1999999997,
+    "TELECOM": 342495.25
+   },
+   "total": 10862688.785
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 8481498.084999999
+   },
+   "total": 8481498.084999999
+  },
+  {
+   "label": "févr",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 66010509.0625,
+    "EXP": 1440716.2,
+    "METAL": 4279454.365,
+    "OPP": 4892146.0962499995,
+    "SPE/MAI": 8880131.95
+   },
+   "total": 85502957.67375
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 43124218.170833334
+   },
+   "total": 43124218.170833334
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 22886290.891666666,
+    "METAL": 483522.425,
+    "SPE/MAI": 3071497.75
+   },
+   "total": 26441311.066666666
+  },
+  {
+   "label": "YSMTAL01",
+   "niveau": "imputation",
+   "valeurs": {
+    "METAL": 3795931.94,
+    "SPE/MAI": 5808634.2
+   },
+   "total": 9604566.14
+  },
+  {
+   "label": "GA31MDJ4105",
+   "niveau": "imputation",
+   "valeurs": {
+    "EXP": 1440716.2,
+    "OPP": 58590
+   },
+   "total": 1499306.2
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 4833556.0962499995
+   },
+   "total": 4833556.0962499995
+  },
+  {
+   "label": "mars",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 75399685.80000001,
+    "EXP": 3934970.74,
+    "METAL": 11284992.631250001,
+    "OPP": 11691948.706249999,
+    "SPE/MAI": 8720128
+   },
+   "total": 111031725.8775
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 34902413.49583334
+   },
+   "total": 34902413.49583334
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 40497272.30416667,
+    "METAL": 3343561.22625
+   },
+   "total": 43840833.53041667
+  },
+  {
+   "label": "YSMTAL01",
+   "niveau": "imputation",
+   "valeurs": {
+    "METAL": 7941431.405000001,
+    "SPE/MAI": 8720128
+   },
+   "total": 16661559.405000001
+  },
+  {
+   "label": "GA31MDJ4105",
+   "niveau": "imputation",
+   "valeurs": {
+    "EXP": 3934970.74,
+    "OPP": 52920.00000000001
+   },
+   "total": 3987890.74
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 11639028.706249999
+   },
+   "total": 11639028.706249999
+  },
+  {
+   "label": "avr",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 85140198.19583333,
+    "EXP": 3302612.2599999993,
+    "METAL": 9662257.275,
+    "OPP": 6439994.239999998,
+    "SPE/MAI": 4547928
+   },
+   "total": 109092989.97083333
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 46616628.99166666
+   },
+   "total": 46616628.99166666
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 38523569.204166666,
+    "SPE/MAI": 1996760
+   },
+   "total": 40520329.204166666
+  },
+  {
+   "label": "YSMTAL01",
+   "niveau": "imputation",
+   "valeurs": {
+    "METAL": 9662257.275,
+    "SPE/MAI": 2551168
+   },
+   "total": 12213425.275
+  },
+  {
+   "label": "GA31MDJ4105",
+   "niveau": "imputation",
+   "valeurs": {
+    "EXP": 3302612.2599999993,
+    "OPP": 58590
+   },
+   "total": 3361202.2599999993
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 6381404.239999998
+   },
+   "total": 6381404.239999998
+  },
+  {
+   "label": "mai",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 105019483.19833331,
+    "OPP": 1074972.16625,
+    "SPE/MAI": 926374.3333333333
+   },
+   "total": 107020829.69791664
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 74091442.15666664
+   },
+   "total": 74091442.15666664
+  },
+  {
+   "label": "GA31AGM3302G6",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 440760
+   },
+   "total": 440760
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 30487281.041666668
+   },
+   "total": 30487281.041666668
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 1074972.16625
+   },
+   "total": 1074972.16625
+  },
+  {
+   "label": "ARRÊT AGM23",
+   "niveau": "imputation",
+   "valeurs": {
+    "SPE/MAI": 926374.3333333333
+   },
+   "total": 926374.3333333333
+  },
+  {
+   "label": "juin",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 55260049.26666666,
+    "EXP": 3654568.354166667,
+    "OPP": 15332346.186666666,
+    "SPE/MAI": 1798599.6666666665
+   },
+   "total": 76045563.47416666
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 23951908.316666666
+   },
+   "total": 23951908.316666666
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 25157029.53333333
+   },
+   "total": 25157029.53333333
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 15332346.186666666
+   },
+   "total": 15332346.186666666
+  },
+  {
+   "label": "ARRÊT AGM23",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 6151111.416666666,
+    "EXP": 3654568.354166667,
+    "SPE/MAI": 1798599.6666666665
+   },
+   "total": 11604279.437499998
+  },
+  {
+   "label": "juil",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 59319413.52333334,
+    "EXP": 3926426.2499999995,
+    "OPP": 4964873.28875,
+    "SPE/MAI": 5056615.583333333
+   },
+   "total": 73267328.64541666
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 8582952
+   },
+   "total": 8582952
+  },
+  {
+   "label": "GA31AGM3302D4",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 1791917.8125
+   },
+   "total": 1791917.8125
+  },
+  {
+   "label": "GA31MDJ3302G4",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 24127179.373333335
+   },
+   "total": 24127179.373333335
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 16350212.420833334
+   },
+   "total": 16350212.420833334
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 4964873.28875
+   },
+   "total": 4964873.28875
+  },
+  {
+   "label": "GA31AGM4103",
+   "niveau": "imputation",
+   "valeurs": {
+    "SPE/MAI": 1775554.4166666665
+   },
+   "total": 1775554.4166666665
+  },
+  {
+   "label": "ARRÊT AGM23",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 8467151.916666668,
+    "EXP": 3926426.2499999995,
+    "SPE/MAI": 3281061.1666666665
+   },
+   "total": 15674639.333333334
+  },
+  {
+   "label": "août",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 38950470.9875,
+    "EXP": 215174011.51249993,
+    "OPP": 4274412,
+    "SPE/MAI": 46284327.95833333
+   },
+   "total": 304683222.45833325
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 9455923.766666666
+   },
+   "total": 9455923.766666666
+  },
+  {
+   "label": "GA31AGM3302D4",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 411213.375
+   },
+   "total": 411213.375
+  },
+  {
+   "label": "GA31MDJ3302G4",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 10491322.041666666
+   },
+   "total": 10491322.041666666
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 16241197.554166669
+   },
+   "total": 16241197.554166669
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 4274412
+   },
+   "total": 4274412
+  },
+  {
+   "label": "ARRÊT AGM23",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 2350814.25,
+    "EXP": 215174011.51249993,
+    "SPE/MAI": 46284327.95833333
+   },
+   "total": 263809153.72083324
+  },
+  {
+   "label": "sept",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 64869142.1875,
+    "EXP": 67077393.26333333,
+    "OPP": 2295840.596666666,
+    "SPE/MAI": 11308469.583333332
+   },
+   "total": 145550845.63083333
+  },
+  {
+   "label": "GA31MDJ3302G4",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 1700640.625
+   },
+   "total": 1700640.625
+  },
+  {
+   "label": "GA31TRM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 4003864.5999999996
+   },
+   "total": 4003864.5999999996
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 5000058.399999999
+   },
+   "total": 5000058.399999999
+  },
+  {
+   "label": "GA3AG430501",
+   "niveau": "imputation",
+   "valeurs": {
+    "OPP": 2295840.596666666
+   },
+   "total": 2295840.596666666
+  },
+  {
+   "label": "GA31AGM4103",
+   "niveau": "imputation",
+   "valeurs": {
+    "SPE/MAI": 4285327.833333333
+   },
+   "total": 4285327.833333333
+  },
+  {
+   "label": "ARRÊT AGM23",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 54164578.5625,
+    "EXP": 67077393.26333333,
+    "SPE/MAI": 7023141.75
+   },
+   "total": 128265113.57583332
+  },
+  {
+   "label": "oct",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 41095662.10833333
+   },
+   "total": 41095662.10833333
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 21831878.849999994
+   },
+   "total": 21831878.849999994
+  },
+  {
+   "label": "GA31MDJ3302G4",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 49140
+   },
+   "total": 49140
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 19214643.258333333
+   },
+   "total": 19214643.258333333
+  },
+  {
+   "label": "nov",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 37503332.19166666
+   },
+   "total": 37503332.19166666
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 15402783.841666663
+   },
+   "total": 15402783.841666663
+  },
+  {
+   "label": "GA31MDJ3302G4",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 50778
+   },
+   "total": 50778
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 22049770.349999998
+   },
+   "total": 22049770.349999998
+  },
+  {
+   "label": "déc",
+   "niveau": "mois",
+   "valeurs": {
+    "CONSTRUCTION": 61728144.775000006,
+    "EXP": 822793.1275000001,
+    "METAL": 1228698.4
+   },
+   "total": 63779636.3025
+  },
+  {
+   "label": "GA31AGM330272",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 34046033.7875
+   },
+   "total": 34046033.7875
+  },
+  {
+   "label": "GA31TRM3302F7",
+   "niveau": "imputation",
+   "valeurs": {
+    "CONSTRUCTION": 27682110.98750001
+   },
+   "total": 27682110.98750001
+  },
+  {
+   "label": "YSMTAL01",
+   "niveau": "imputation",
+   "valeurs": {
+    "METAL": 1228698.4
+   },
+   "total": 1228698.4
+  },
+  {
+   "label": "GA31MDJ4105",
+   "niveau": "imputation",
+   "valeurs": {
+    "EXP": 822793.1275000001
+   },
+   "total": 822793.1275000001
+  },
+  {
+   "label": "Total général",
+   "niveau": "total",
+   "valeurs": {
+    "CONSTRUCTION": 743278241.6925001,
+    "EXP": 307394667.0424999,
+    "METAL": 35189551.20125,
+    "OPP": 59547256.36583333,
+    "SPE/MAI": 89882368.27499999,
+    "TELECOM": 342495.25
+   },
+   "total": 1235634579.827083
+  }
+ ],
+ "totalJournalSnapshot": 24336868.358333338,
+ "tableau12": [
+  {
+   "mois": "JANV",
+   "metal": 8734148.53,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 24619105,
+   "coutMetalCorrige": 48189753.53,
+   "construction": 52982150.39583333,
+   "exp": 8061175.335,
+   "opp": 8580723.084999999,
+   "speMai": 2359793.1999999997,
+   "telecom": 342495.25,
+   "coutTotal": 120516090.79583332,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 78849424.12916666
+  },
+  {
+   "mois": "FÉVR",
+   "metal": 4279454.365,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 21872885,
+   "coutMetalCorrige": 40988839.365,
+   "construction": 66010509.0625,
+   "exp": 1440716.2,
+   "opp": 4892146.0962499995,
+   "speMai": 8880131.95,
+   "telecom": 0,
+   "coutTotal": 122212342.67375001,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 80545676.00708336
+  },
+  {
+   "mois": "MARS",
+   "metal": 11284992.631250001,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 38801760,
+   "coutMetalCorrige": 64923252.63125,
+   "construction": 75399685.80000001,
+   "exp": 3934970.74,
+   "opp": 11691948.706249999,
+   "speMai": 8720128,
+   "telecom": 0,
+   "coutTotal": 164669985.87750003,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 123003319.21083337
+  },
+  {
+   "mois": "AVR",
+   "metal": 9662257.275,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 48354620,
+   "coutMetalCorrige": 72853377.275,
+   "construction": 85140198.19583333,
+   "exp": 3302612.2599999993,
+   "opp": 6439994.239999998,
+   "speMai": 4547928,
+   "telecom": 0,
+   "coutTotal": 172284109.97083333,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 130617443.30416667
+  },
+  {
+   "mois": "MAI",
+   "metal": 0,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 58277184,
+   "coutMetalCorrige": 73113684,
+   "construction": 105019483.19833331,
+   "exp": 0,
+   "opp": 1074972.16625,
+   "speMai": 926374.3333333333,
+   "telecom": 0,
+   "coutTotal": 180134513.69791666,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 138467847.03125
+  },
+  {
+   "mois": "JUIN",
+   "metal": 0,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 32145642,
+   "coutMetalCorrige": 46982142,
+   "construction": 55260049.26666666,
+   "exp": 3654568.354166667,
+   "opp": 15332346.186666666,
+   "speMai": 1798599.6666666665,
+   "telecom": 0,
+   "coutTotal": 123027705.47416666,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 81361038.8075
+  },
+  {
+   "mois": "JUIL",
+   "metal": 0,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 54769614,
+   "coutMetalCorrige": 69606114,
+   "construction": 59319413.52333334,
+   "exp": 3926426.2499999995,
+   "opp": 4964873.28875,
+   "speMai": 5056615.583333333,
+   "telecom": 0,
+   "coutTotal": 142873442.64541668,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 101206775.97875002
+  },
+  {
+   "mois": "AOÛT",
+   "metal": 0,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 27693916,
+   "coutMetalCorrige": 42530416,
+   "construction": 38950470.9875,
+   "exp": 215174011.51249993,
+   "opp": 4274412,
+   "speMai": 46284327.95833333,
+   "telecom": 0,
+   "coutTotal": 347213638.45833325,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 305546971.79166657
+  },
+  {
+   "mois": "SEPT",
+   "metal": 0,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 0,
+   "coutMetalCorrige": 14836500,
+   "construction": 64869142.1875,
+   "exp": 67077393.26333333,
+   "opp": 2295840.596666666,
+   "speMai": 11308469.583333332,
+   "telecom": 0,
+   "coutTotal": 160387345.63083333,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 118720678.96416667
+  },
+  {
+   "mois": "OCT",
+   "metal": 0,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": 0,
+   "coutMetalCorrige": 14836500,
+   "construction": 41095662.10833333,
+   "exp": 0,
+   "opp": 0,
+   "speMai": 0,
+   "telecom": 0,
+   "coutTotal": 55932162.10833333,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 14265495.441666663
+  },
+  {
+   "mois": "NOV",
+   "metal": 0,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": -14836500,
+   "coutMetalCorrige": 0,
+   "construction": 37503332.19166666,
+   "exp": 0,
+   "opp": 0,
+   "speMai": 0,
+   "telecom": 0,
+   "coutTotal": 37503332.19166666,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 0
+  },
+  {
+   "mois": "DÉC",
+   "metal": 1228698.4,
+   "forfaitCoreCrew": 12000000,
+   "forfaitMateriel": 2836500,
+   "partieVariable": -14836500,
+   "coutMetalCorrige": 1228698.4000000004,
+   "construction": 61728144.775000006,
+   "exp": 822793.1275000001,
+   "opp": 0,
+   "speMai": 0,
+   "telecom": 0,
+   "coutTotal": 63779636.3025,
+   "valeurCibleMensuel": 41666666.666666664,
+   "depassement": 22112969.635833338
+  }
+ ],
+ "tableau12Totaux": {
+  "metal": 35189551.20125,
+  "forfaitCoreCrew": 144000000,
+  "forfaitMateriel": 34038000,
+  "partieVariable": 276861726,
+  "coutMetalCorrige": 490089277.20124996,
+  "construction": 743278241.6925,
+  "exp": 307394667.0424999,
+  "opp": 59547256.36583333,
+  "speMai": 89882368.27499999,
+  "telecom": 342495.25,
+  "coutTotal": 1690534305.827083,
+  "valeurCibleMensuel": null,
+  "depassement": null
+ },
+ "realise": 1690534305.827083,
+ "coreCrewTotal": 454899726,
+ "totalAuPoint": 1235634579.827083
+}

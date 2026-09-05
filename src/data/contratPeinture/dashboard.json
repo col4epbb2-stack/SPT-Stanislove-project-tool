@@ -1,0 +1,777 @@
+{
+  "moisReporting": "mai 2026",
+  "avancementGeneral": {
+    "previsionnel": 0.111111,
+    "reel": 0.103704
+  },
+  "avancementParAffaire": [
+    {
+      "affaire": "DG-311",
+      "avis": "15123628",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 1.0,
+      "surfaceMoyenne": 7.25
+    },
+    {
+      "affaire": "Ligne sortie huile DS-301 / Retour GX-307A/B/C vers DS-202",
+      "avis": "15109111",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 1.0,
+      "surfaceMoyenne": 12.5
+    },
+    {
+      "affaire": "LIGNE GAS HP VERS DISTRIB. RACLEURS (Partie sans échaf)",
+      "avis": "45016625",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 0.8,
+      "surfaceMoyenne": 21.7
+    },
+    {
+      "affaire": "Ligne injection GL du puits TRM028 ( Réparée suite à un percement )",
+      "avis": "15123685",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 1.0,
+      "surfaceMoyenne": 3.7
+    },
+    {
+      "affaire": "Ligne alimentation gasoil de la PY-405",
+      "avis": "45016425",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 1.0,
+      "surfaceMoyenne": 5.3
+    },
+    {
+      "affaire": "Manifold gaz lift / Préparation manuelle PID  A104 003",
+      "avis": "15123787 / 15123765 / 45016331 / 45016329 / 15123790",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 1.0,
+      "surfaceMoyenne": 56.91
+    },
+    {
+      "affaire": "Clarinettes air instrument TRM1 / PID A 104 004 primaire intermédiaire",
+      "avis": "15123789 / 15123768 / 15123767 / 15123766",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 1.0,
+      "surfaceMoyenne": 5.08
+    },
+    {
+      "affaire": "Finitions des avis réseau tous raiseaux NIV 6m  TRM1                                    TRM1 / PID A 104 001 A",
+      "avis": "15123770 / 15123767 / 15016584 / 45016584",
+      "pctPrevisionnel": 1.0,
+      "pctReel": 1.0,
+      "surfaceMoyenne": 51.78
+    }
+  ],
+  "courbesParSite": [
+    {
+      "site": "AGM",
+      "totalPlanCharge": 265.467317,
+      "totalRealise": 222.6327,
+      "totalCible": 310.0,
+      "tauxRealisation": 0.838644,
+      "tauxProductivite": 0.71817,
+      "points": [
+        {
+          "date": "2026-05-01",
+          "planCharge": 12.462347,
+          "realise": 29.5925,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-02",
+          "planCharge": 12.462347,
+          "realise": 4.4275,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-03",
+          "planCharge": 13.073037,
+          "realise": 5.313,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-04",
+          "planCharge": 7.169704,
+          "realise": 4.084,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-05",
+          "planCharge": 7.169704,
+          "realise": 4.084,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-06",
+          "planCharge": 7.169704,
+          "realise": 4.084,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-07",
+          "planCharge": 7.169704,
+          "realise": 2.5355,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-08",
+          "planCharge": 11.478593,
+          "realise": 6.8313,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-09",
+          "planCharge": 11.478593,
+          "realise": 6.8313,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-10",
+          "planCharge": 8.478593,
+          "realise": 19.6208,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-11",
+          "planCharge": 3.801593,
+          "realise": 12.5013,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-12",
+          "planCharge": 3.731837,
+          "realise": 8.3733,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-13",
+          "planCharge": 3.731837,
+          "realise": 2.1813,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-14",
+          "planCharge": 5.031837,
+          "realise": 2.8313,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-15",
+          "planCharge": 6.476281,
+          "realise": 4.7813,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-16",
+          "planCharge": 6.476281,
+          "realise": 2.8313,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-17",
+          "planCharge": 6.080725,
+          "realise": 2.4945,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-18",
+          "planCharge": 6.080725,
+          "realise": 17.209,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-19",
+          "planCharge": 7.630725,
+          "realise": 7.7515,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-20",
+          "planCharge": 7.630725,
+          "realise": 0.959,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-21",
+          "planCharge": 7.630725,
+          "realise": 0.959,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-22",
+          "planCharge": 10.760725,
+          "realise": 7.4345,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-23",
+          "planCharge": 9.040725,
+          "realise": 10.854,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-24",
+          "planCharge": 6.296281,
+          "realise": 6.589,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-25",
+          "planCharge": 3.166281,
+          "realise": 0.959,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-26",
+          "planCharge": 7.176281,
+          "realise": 9.0535,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-27",
+          "planCharge": 8.512948,
+          "realise": 2.964,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-28",
+          "planCharge": 8.512948,
+          "realise": 9.1795,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-29",
+          "planCharge": 14.926281,
+          "realise": 9.8225,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-30",
+          "planCharge": 17.329614,
+          "realise": 7.75,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-31",
+          "planCharge": 17.329614,
+          "realise": 7.75,
+          "cible": 10.0
+        }
+      ]
+    },
+    {
+      "site": "IM",
+      "totalPlanCharge": 311.907,
+      "totalRealise": 251.4338,
+      "totalCible": 310.0,
+      "tauxRealisation": 0.806118,
+      "tauxProductivite": 0.811077,
+      "points": [
+        {
+          "date": "2026-05-01",
+          "planCharge": 7.836667,
+          "realise": 5.8775,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-02",
+          "planCharge": 7.836667,
+          "realise": 5.8775,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-03",
+          "planCharge": 13.471667,
+          "realise": 18.517,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-04",
+          "planCharge": 5.635,
+          "realise": 0,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-05",
+          "planCharge": 5.635,
+          "realise": 6.762,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-06",
+          "planCharge": 5.635,
+          "realise": 9.016,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-07",
+          "planCharge": 5.555,
+          "realise": 1.111,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-08",
+          "planCharge": 5.555,
+          "realise": 3.333,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-09",
+          "planCharge": 5.555,
+          "realise": 6.666,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-10",
+          "planCharge": 5.555,
+          "realise": 11.11,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-11",
+          "planCharge": 9.14,
+          "realise": 5.484,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-12",
+          "planCharge": 9.14,
+          "realise": 12.796,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-13",
+          "planCharge": 9.14,
+          "realise": 10.968,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-14",
+          "planCharge": 12.0,
+          "realise": 10.172,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-15",
+          "planCharge": 4.812941,
+          "realise": 6.18,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-16",
+          "planCharge": 1.952941,
+          "realise": 1.66,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-17",
+          "planCharge": 12.801214,
+          "realise": 15.4549,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-18",
+          "planCharge": 12.801214,
+          "realise": 11.864,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-19",
+          "planCharge": 12.801214,
+          "realise": 2.3064,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-20",
+          "planCharge": 12.801214,
+          "realise": 16.3127,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-21",
+          "planCharge": 12.801214,
+          "realise": 9.7773,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-22",
+          "planCharge": 12.801214,
+          "realise": 7.521,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-23",
+          "planCharge": 12.801214,
+          "realise": 7.521,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-24",
+          "planCharge": 12.801214,
+          "realise": 9.7894,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-25",
+          "planCharge": 12.801214,
+          "realise": 9.0373,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-26",
+          "planCharge": 12.801214,
+          "realise": 6.7689,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-27",
+          "planCharge": 12.801214,
+          "realise": 6.7689,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-28",
+          "planCharge": 9.297275,
+          "realise": 2.5,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-29",
+          "planCharge": 9.297275,
+          "realise": 3.8,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-30",
+          "planCharge": 18.217275,
+          "realise": 12.62,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-31",
+          "planCharge": 19.825941,
+          "realise": 13.862,
+          "cible": 10.0
+        }
+      ]
+    },
+    {
+      "site": "TRM",
+      "totalPlanCharge": 164.22,
+      "totalRealise": 159.88,
+      "totalCible": 310.0,
+      "tauxRealisation": 0.973572,
+      "tauxProductivite": 0.515742,
+      "points": [
+        {
+          "date": "2026-05-01",
+          "planCharge": 9.035714,
+          "realise": 9.75,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-02",
+          "planCharge": 1.785714,
+          "realise": 0,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-03",
+          "planCharge": 1.785714,
+          "realise": 0,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-04",
+          "planCharge": 1.785714,
+          "realise": 0,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-05",
+          "planCharge": 1.785714,
+          "realise": 5.0,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-06",
+          "planCharge": 1.785714,
+          "realise": 2.5,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-07",
+          "planCharge": 1.785714,
+          "realise": 2.5,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-08",
+          "planCharge": 5.425,
+          "realise": 4.34,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-09",
+          "planCharge": 7.275,
+          "realise": 1.85,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-10",
+          "planCharge": 7.275,
+          "realise": 1.85,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-11",
+          "planCharge": 5.425,
+          "realise": 13.02,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-12",
+          "planCharge": 2.65,
+          "realise": 2.65,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-13",
+          "planCharge": 2.65,
+          "realise": 2.65,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-14",
+          "planCharge": 5.691,
+          "realise": 5.1219,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-15",
+          "planCharge": 5.691,
+          "realise": 5.691,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-16",
+          "planCharge": 5.691,
+          "realise": 4.5528,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-17",
+          "planCharge": 5.691,
+          "realise": 4.5528,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-18",
+          "planCharge": 5.691,
+          "realise": 5.691,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-19",
+          "planCharge": 5.691,
+          "realise": 5.691,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-20",
+          "planCharge": 5.691,
+          "realise": 0,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-21",
+          "planCharge": 5.691,
+          "realise": 0,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-22",
+          "planCharge": 5.691,
+          "realise": 15.3657,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-23",
+          "planCharge": 5.691,
+          "realise": 10.2438,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-24",
+          "planCharge": 1.693333,
+          "realise": 1.016,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-25",
+          "planCharge": 1.693333,
+          "realise": 2.54,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-26",
+          "planCharge": 1.693333,
+          "realise": 1.524,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-27",
+          "planCharge": 10.356,
+          "realise": 5.178,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-28",
+          "planCharge": 10.356,
+          "realise": 10.356,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-29",
+          "planCharge": 10.356,
+          "realise": 12.945,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-30",
+          "planCharge": 10.356,
+          "realise": 10.356,
+          "cible": 10.0
+        },
+        {
+          "date": "2026-05-31",
+          "planCharge": 10.356,
+          "realise": 12.945,
+          "cible": 10.0
+        }
+      ]
+    }
+  ],
+  "coutsKomodo": [
+    {
+      "type": "REEL",
+      "materiel": 0,
+      "personnel": 0,
+      "matPers": 0,
+      "autres": 0,
+      "coutTotalHorsKomodo": 0,
+      "komodo": 0,
+      "coutTotal": 0,
+      "valeurCible": 2666934.0,
+      "depassement": -2666934.0,
+      "totaux": 20460.0
+    },
+    {
+      "type": "STB 50%",
+      "materiel": 0,
+      "personnel": 0,
+      "matPers": 0,
+      "autres": 0,
+      "coutTotalHorsKomodo": 0,
+      "komodo": 0,
+      "coutTotal": 0,
+      "valeurCible": 2666934.0,
+      "depassement": -2666934.0,
+      "totaux": 0
+    },
+    {
+      "type": "MOB",
+      "materiel": 0,
+      "personnel": 0,
+      "matPers": 0,
+      "autres": 0,
+      "coutTotalHorsKomodo": 0,
+      "komodo": 0,
+      "coutTotal": 0,
+      "valeurCible": 2666934.0,
+      "depassement": -2666934.0,
+      "totaux": 0
+    }
+  ],
+  "valeurCible": {
+    "total": 2666934.0,
+    "parSite": [
+      {
+        "site": "AGM",
+        "cible": 1333467.0
+      },
+      {
+        "site": "TRM",
+        "cible": 1333467.0
+      },
+      {
+        "site": "IM",
+        "cible": 0
+      }
+    ],
+    "reparationCable": 751393.0,
+    "reporting": [
+      {
+        "label": "AGM",
+        "cible": 1333467.0,
+        "reporting": 1333467.0
+      },
+      {
+        "label": "REPARATION CABLE",
+        "cible": 751393.0,
+        "reporting": null
+      },
+      {
+        "label": "TRM",
+        "cible": 1333467.0,
+        "reporting": 751393.0
+      }
+    ]
+  },
+  "standByParSite": [
+    {
+      "site": "TRM",
+      "typeItem": "STBY METEO",
+      "qte": 65.0,
+      "cout": 0
+    },
+    {
+      "site": "IM",
+      "typeItem": "STBY METEO",
+      "qte": 34.0,
+      "cout": 0
+    },
+    {
+      "site": "AGM",
+      "typeItem": "STBY METEO",
+      "qte": 64.0,
+      "cout": 0
+    }
+  ],
+  "syntheseFacturationParSite": [
+    {
+      "site": "TRM",
+      "qte": 705.0,
+      "coutTotalPointage": 23620.0,
+      "part": 0.334845,
+      "avant": 1523382.0,
+      "apres": 1596672.0
+    },
+    {
+      "site": "IM",
+      "qte": 466.0,
+      "coutTotalPointage": 20960.0,
+      "part": 0.297136,
+      "avant": 820500.645168,
+      "apres": 857122.845168
+    },
+    {
+      "site": "AGM",
+      "qte": 560.0,
+      "coutTotalPointage": 25960.0,
+      "part": 0.368018,
+      "avant": 1118745.90323,
+      "apres": 1157121.90323
+    }
+  ]
+}

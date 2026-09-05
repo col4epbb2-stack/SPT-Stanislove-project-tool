@@ -1,0 +1,1019 @@
+{
+ "titre": "SUIVI PO",
+ "totaux": {
+  "reception": {
+   "aCreer": 275.0,
+   "faits": 275.0,
+   "restants": 0,
+   "pct": 1.0
+  },
+  "bloc2": {
+   "aCreer": 231.0,
+   "faits": 231.0,
+   "restants": 0,
+   "pct": 1.0
+  },
+  "bloc3": {
+   "aCreer": 94.0,
+   "faits": 94.0,
+   "restants": 0,
+   "pct": 1.0
+  }
+ },
+ "nombrePlateformes": 90.0,
+ "scopes": [
+  {
+   "scope": "CAPACITES (VISITE INTERNE/INSPECTION)",
+   "reception": {
+    "aCreer": 31.0,
+    "faits": 31.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 31.0,
+    "faits": 31.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "PAREFLAMMES (REMPLACEMENT  LH)",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 5.0,
+    "faits": 5.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SOUPAPES (REMPLACEMENT PSV > 6'')",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/ELECTRICITE",
+   "reception": {
+    "aCreer": 18.0,
+    "faits": 18.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 11.0,
+    "faits": 11.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 5.0,
+    "faits": 5.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INSPECTION - RACLAGE INSTRUMENTE - (RI)",
+   "reception": {
+    "aCreer": 6.0,
+    "faits": 6.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 6.0,
+    "faits": 6.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - DDM - (CLASSE 2)",
+   "reception": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - PAREFLAMME - (NETTOYAGE - REMPLACEMENT LH)",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - SOUPAPE - (REMPLACEMENT PSV < 6'')",
+   "reception": {
+    "aCreer": 25.0,
+    "faits": 25.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 27.0,
+    "faits": 27.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 8.0,
+    "faits": 8.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - SYSTÈME",
+   "reception": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "VANNES (REMPLACEMENT > 6'')",
+   "reception": {
+    "aCreer": 6.0,
+    "faits": 6.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 7.0,
+    "faits": 7.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 6.0,
+    "faits": 6.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "(vide)",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   }
+  },
+  {
+   "scope": "SPE/ELECTRICITE/Réserve APAVE (11)",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INS - TRAVAUX & REMPLACEMENT VANNES",
+   "reception": {
+    "aCreer": 28.0,
+    "faits": 28.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 25.0,
+    "faits": 25.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 12.0,
+    "faits": 12.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INS - TRAVAUX & REMPLACEMENT VANNES/Réserves APAVE (6)",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1) 120038: Remplacement des Compresseurs à air obsolètes en Offshore AGM",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1)  130045 : AGM8 Remplacement de la cuve de purge non conforme",
+   "reception": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1) 200021 : Retrofit scrubbers inter étage KY600",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220010 : Modification sortie liquide DS 601 aspiration KY600",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220011 : Installation de filtres à l’aspiration - Fiabilisation pompes export AGMP",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1) 210006 : Installation de compresseur à air sur GAAM",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220008 : Remplacement nez de torche",
+   "reception": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 1) 2022-000001 GAAM PV control Phase 1",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "TRAVAUX INTEGRITE (AVIS_MTL)",
+   "reception": {
+    "aCreer": 41.0,
+    "faits": 41.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 41.0,
+    "faits": 41.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "TRAVAUX INTEGRITE (Camp. Int.)",
+   "reception": {
+    "aCreer": 23.0,
+    "faits": 23.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 23.0,
+    "faits": 23.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 15.0,
+    "faits": 15.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 2) 200002 : Installation de débitmétre sur les lignes de torche AGM",
+   "reception": {
+    "aCreer": 5.0,
+    "faits": 5.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 5.0,
+    "faits": 5.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 3.0,
+    "faits": 3.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 2) 190013 : Remplacement métallurgie tuyauterie gaz process KY-600",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 2) 170023 : Création des deux points de contrôle sur l'arrivée pipeline export 4'' AGM8-AGMPFC après l'ESDV21",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 2) Upgrade comptage",
+   "reception": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 2.0,
+    "faits": 2.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 2) 170024 : Création des deux points de contrôle sur le départ pipeline export 12'' GAAM-PG2 avant l'ESDV103",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - DDM - (CLASSE 2) 130040 : Installation des duses automatiques",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "MAD/Platinage des installations du site",
+   "reception": {
+    "aCreer": 10.0,
+    "faits": 10.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "Test ESD des installations",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   }
+  },
+  {
+   "scope": "Déplatinage/Leak Test/Redemarrage",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "Travaux préparatoires",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "Echafaudage + Travaux peinture (Touch-up)",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 0
+   }
+  },
+  {
+   "scope": "DDM (CLASSE 2) 210013 : Mise en conformité export GAAM vers PG2",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/TRAVAUX D'OPPORTUNITE",
+   "reception": {
+    "aCreer": 26.0,
+    "faits": 26.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 7.0,
+    "faits": 7.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 4.0,
+    "faits": 4.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/MECANIQUE KY600 : PS 4Khrs + Lavage Turbine",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "SPE/MECANIQUE KY600 : Contrôle intégrité Soufflet  Aire comburant",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "CTA/ SPARE PART DDM",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "DDM 190023 : Dégoulottage export gaz HP",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "Mise en service armoire SSS",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "banc de test (interne) pour les vannes",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "Electrification de GAAM",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "KY-600 / Package : Mise en conformité des supports du pipping",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 0,
+    "faits": 0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "multitanks fûts  polythylène fut/bidon 60 litres bleu à ouverture total",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  },
+  {
+   "scope": "Matériel Commissioning",
+   "reception": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc2": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   },
+   "bloc3": {
+    "aCreer": 1.0,
+    "faits": 1.0,
+    "restants": 0,
+    "pct": 1.0
+   }
+  }
+ ],
+ "memoSurveillance": {
+  "objet": "Point hebdo Surveillance sur commandes en cours",
+  "expediteurNom": "Stanislove MEZUI MENIE",
+  "expediteurFonction": "Responsable QA/QC",
+  "distribution": "DO/SUPTEC/CTA"
+ }
+}

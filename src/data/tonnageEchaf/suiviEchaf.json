@@ -1,0 +1,1595 @@
+{
+  "meta": {
+    "dateSituation": "2026-06-28",
+    "semaine": "S27",
+    "tarifXafTonneJour": 4500.0
+  },
+  "resume": {
+    "parChamp": [
+      {
+        "champ": "AGM",
+        "moyenneCumulCoreCrew": 5.351263,
+        "moyenneCumulHorsCoreCrew": 5.886,
+        "pctMoyen": 0.029521,
+        "savingMutualisation": 0
+      },
+      {
+        "champ": "IM",
+        "moyenneCumulCoreCrew": 0,
+        "moyenneCumulHorsCoreCrew": 13.103526,
+        "pctMoyen": 0.136805,
+        "savingMutualisation": 0
+      },
+      {
+        "champ": "TRM",
+        "moyenneCumulCoreCrew": 7.485158,
+        "moyenneCumulHorsCoreCrew": 8.704895,
+        "pctMoyen": 0.122105,
+        "savingMutualisation": 0
+      }
+    ],
+    "gmi": {
+      "depuis": "2024-10-15",
+      "coreCrew": 8.326125,
+      "partVariable": 7.443
+    },
+    "savingMutualisationTotal": 0
+  },
+  "production": [
+    {
+      "champ": "AGM",
+      "lignes": [
+        {
+          "date": "2026-06-01",
+          "cumulCoreCrew": 5.8446,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0.432,
+          "pct": 0.057602
+        },
+        {
+          "date": "2026-06-02",
+          "cumulCoreCrew": 5.8446,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0.243,
+          "pct": 0.032401
+        },
+        {
+          "date": "2026-06-03",
+          "cumulCoreCrew": 5.6016,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-04",
+          "cumulCoreCrew": 5.6016,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-05",
+          "cumulCoreCrew": 5.6016,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0.432,
+          "pct": 0.057602
+        },
+        {
+          "date": "2026-06-06",
+          "cumulCoreCrew": 5.6016,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0.144,
+          "pct": 0.019201
+        },
+        {
+          "date": "2026-06-07",
+          "cumulCoreCrew": 5.0256,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-08",
+          "cumulCoreCrew": 5.0256,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-09",
+          "cumulCoreCrew": 5.0256,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 4.9998,
+          "productionJournaliere": 0.144,
+          "pct": 0.028801
+        },
+        {
+          "date": "2026-06-10",
+          "cumulCoreCrew": 5.0976,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 4.9998,
+          "productionJournaliere": 0.432,
+          "pct": 0.086403
+        },
+        {
+          "date": "2026-06-11",
+          "cumulCoreCrew": 5.1516,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.27,
+          "pct": 0.108004
+        },
+        {
+          "date": "2026-06-12",
+          "cumulCoreCrew": 5.3136,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.162,
+          "pct": 0.064803
+        },
+        {
+          "date": "2026-06-13",
+          "cumulCoreCrew": 5.6592,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.6912,
+          "pct": 0.276491
+        },
+        {
+          "date": "2026-06-14",
+          "cumulCoreCrew": 5.3892,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.3636,
+          "pct": 0.145446
+        },
+        {
+          "date": "2026-06-15",
+          "cumulCoreCrew": 5.1012,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-16",
+          "cumulCoreCrew": 5.2632,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.324,
+          "pct": 0.129605
+        },
+        {
+          "date": "2026-06-17",
+          "cumulCoreCrew": 5.1012,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-18",
+          "cumulCoreCrew": 5.1012,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-19",
+          "cumulCoreCrew": 5.3236,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.3276,
+          "pct": 0.131045
+        },
+        {
+          "date": "2026-06-20",
+          "cumulCoreCrew": 5.2452,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-21",
+          "cumulCoreCrew": 5.106384,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.005184,
+          "pct": 0.002074
+        },
+        {
+          "date": "2026-06-22",
+          "cumulCoreCrew": 5.1012,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-23",
+          "cumulCoreCrew": 5.1012,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-24",
+          "cumulCoreCrew": 5.8572,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.756,
+          "pct": 0.302412
+        },
+        {
+          "date": "2026-06-25",
+          "cumulCoreCrew": 6.2892,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.648,
+          "pct": 0.25921
+        },
+        {
+          "date": "2026-06-26",
+          "cumulCoreCrew": 11.4732,
+          "cumulHorsCoreCrew": 5.886,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0.54,
+          "pct": 0.216009
+        }
+      ]
+    },
+    {
+      "champ": "IM",
+      "lignes": [
+        {
+          "date": "2026-06-01",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 9.108,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 2.4999,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-02",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 10.26,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 1.152,
+          "pct": 0.192008
+        },
+        {
+          "date": "2026-06-03",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 10.26,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 1.152,
+          "pct": 0.192008
+        },
+        {
+          "date": "2026-06-04",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 10.908,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 1.8,
+          "pct": 0.300012
+        },
+        {
+          "date": "2026-06-05",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 10.908,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-06",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 10.908,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-07",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 10.908,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-08",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 10.908,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-09",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 12.06,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 3.852,
+          "pct": 0.642026
+        },
+        {
+          "date": "2026-06-10",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 9.36,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-11",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 17.568,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 1.152,
+          "pct": 0.192008
+        },
+        {
+          "date": "2026-06-12",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 9.36,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-13",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 15.984,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 6.624,
+          "pct": 1.104044
+        },
+        {
+          "date": "2026-06-14",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 15.984,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0.576,
+          "pct": 0.096004
+        },
+        {
+          "date": "2026-06-15",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 16.299,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 4.131,
+          "pct": 0.688528
+        },
+        {
+          "date": "2026-06-16",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 17.091,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 4.032,
+          "pct": 0.672027
+        },
+        {
+          "date": "2026-06-17",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 17.631,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0.54,
+          "pct": 0.090004
+        },
+        {
+          "date": "2026-06-18",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 17.631,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 1.8,
+          "pct": 0.300012
+        },
+        {
+          "date": "2026-06-19",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 15.831,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 4.032,
+          "pct": 0.672027
+        },
+        {
+          "date": "2026-06-20",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 12.339,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 1.08,
+          "pct": 0.180007
+        },
+        {
+          "date": "2026-06-21",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 11.799,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0.72,
+          "pct": 0.120005
+        },
+        {
+          "date": "2026-06-22",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 11.079,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-23",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 11.799,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0.72,
+          "pct": 0.120005
+        },
+        {
+          "date": "2026-06-24",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 11.799,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0.54,
+          "pct": 0.090004
+        },
+        {
+          "date": "2026-06-25",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 11.979,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0.72,
+          "pct": 0.120005
+        },
+        {
+          "date": "2026-06-26",
+          "cumulCoreCrew": 0,
+          "cumulHorsCoreCrew": 11.979,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 5.99976,
+          "productionJournaliere": 0,
+          "pct": 0
+        }
+      ]
+    },
+    {
+      "champ": "TRM",
+      "lignes": [
+        {
+          "date": "2026-06-01",
+          "cumulCoreCrew": 5.634,
+          "cumulHorsCoreCrew": 10.557,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.324,
+          "pct": 0.032401
+        },
+        {
+          "date": "2026-06-02",
+          "cumulCoreCrew": 5.85,
+          "cumulHorsCoreCrew": 10.557,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 1.485,
+          "pct": 0.148506
+        },
+        {
+          "date": "2026-06-03",
+          "cumulCoreCrew": 6.282,
+          "cumulHorsCoreCrew": 10.152,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.972,
+          "pct": 0.097204
+        },
+        {
+          "date": "2026-06-04",
+          "cumulCoreCrew": 6.768,
+          "cumulHorsCoreCrew": 10.152,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.774,
+          "pct": 0.077403
+        },
+        {
+          "date": "2026-06-05",
+          "cumulCoreCrew": 8.118,
+          "cumulHorsCoreCrew": 9.864,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 3.744,
+          "pct": 0.374415
+        },
+        {
+          "date": "2026-06-06",
+          "cumulCoreCrew": 5.85,
+          "cumulHorsCoreCrew": 9.738,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 1.836,
+          "pct": 0.183607
+        },
+        {
+          "date": "2026-06-07",
+          "cumulCoreCrew": 5.31,
+          "cumulHorsCoreCrew": 8.442,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.405,
+          "pct": 0.040502
+        },
+        {
+          "date": "2026-06-08",
+          "cumulCoreCrew": 8.334,
+          "cumulHorsCoreCrew": 8.442,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 3.024,
+          "pct": 0.302412
+        },
+        {
+          "date": "2026-06-09",
+          "cumulCoreCrew": 8.415,
+          "cumulHorsCoreCrew": 8.442,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.486,
+          "pct": 0.048602
+        },
+        {
+          "date": "2026-06-10",
+          "cumulCoreCrew": 16.299,
+          "cumulHorsCoreCrew": 8.442,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.945,
+          "pct": 0.094504
+        },
+        {
+          "date": "2026-06-11",
+          "cumulCoreCrew": 8.415,
+          "cumulHorsCoreCrew": 7.497,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-12",
+          "cumulCoreCrew": 8.82,
+          "cumulHorsCoreCrew": 7.497,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.405,
+          "pct": 0.040502
+        },
+        {
+          "date": "2026-06-13",
+          "cumulCoreCrew": 9.306,
+          "cumulHorsCoreCrew": 7.497,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.486,
+          "pct": 0.048602
+        },
+        {
+          "date": "2026-06-14",
+          "cumulCoreCrew": 9.432,
+          "cumulHorsCoreCrew": 7.497,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 3.024,
+          "pct": 0.302412
+        },
+        {
+          "date": "2026-06-15",
+          "cumulCoreCrew": 6.156,
+          "cumulHorsCoreCrew": 7.497,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.405,
+          "pct": 0.040502
+        },
+        {
+          "date": "2026-06-16",
+          "cumulCoreCrew": 5.877,
+          "cumulHorsCoreCrew": 8.172,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.972,
+          "pct": 0.097204
+        },
+        {
+          "date": "2026-06-17",
+          "cumulCoreCrew": 5.31,
+          "cumulHorsCoreCrew": 8.172,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0.405,
+          "pct": 0.040502
+        },
+        {
+          "date": "2026-06-18",
+          "cumulCoreCrew": 6.039,
+          "cumulHorsCoreCrew": 8.172,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 1.053,
+          "pct": 0.105304
+        },
+        {
+          "date": "2026-06-19",
+          "cumulCoreCrew": 6.003,
+          "cumulHorsCoreCrew": 8.604,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 9.9996,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-20",
+          "cumulCoreCrew": 6.219,
+          "cumulHorsCoreCrew": 8.604,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-21",
+          "cumulCoreCrew": 6.219,
+          "cumulHorsCoreCrew": 8.604,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0.432,
+          "pct": 0.057602
+        },
+        {
+          "date": "2026-06-22",
+          "cumulCoreCrew": 7.344,
+          "cumulHorsCoreCrew": 8.172,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 1.62,
+          "pct": 0.216009
+        },
+        {
+          "date": "2026-06-23",
+          "cumulCoreCrew": 6.939,
+          "cumulHorsCoreCrew": 6.957,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0,
+          "pct": 0
+        },
+        {
+          "date": "2026-06-24",
+          "cumulCoreCrew": 13.878,
+          "cumulHorsCoreCrew": 13.914,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0.405,
+          "pct": 0.054002
+        },
+        {
+          "date": "2026-06-25",
+          "cumulCoreCrew": 6.534,
+          "cumulHorsCoreCrew": 6.957,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 2.16,
+          "pct": 0.288012
+        },
+        {
+          "date": "2026-06-26",
+          "cumulCoreCrew": 6.696,
+          "cumulHorsCoreCrew": 4.797,
+          "seuil": 5.0,
+          "savingMutualisation": 0,
+          "cibleTheorique": 7.4997,
+          "productionJournaliere": 0,
+          "pct": 0
+        }
+      ]
+    }
+  ],
+  "poidsJournalier": [
+    {
+      "date": "2026-06-01",
+      "total": 16.191,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-02",
+      "total": 16.407,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-03",
+      "total": 16.434,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-04",
+      "total": 16.92,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-05",
+      "total": 17.982,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-06",
+      "total": 15.588,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-07",
+      "total": 13.752,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-08",
+      "total": 16.776,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-09",
+      "total": 16.857,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-10",
+      "total": 24.741,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-11",
+      "total": 15.912,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-12",
+      "total": 16.317,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-13",
+      "total": 16.803,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-14",
+      "total": 16.929,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-15",
+      "total": 13.653,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-16",
+      "total": 14.049,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-17",
+      "total": 13.482,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-18",
+      "total": 14.211,
+      "partVariable": null,
+      "coreCrew": null
+    },
+    {
+      "date": "2026-06-19",
+      "total": 14.607,
+      "partVariable": 8.604,
+      "coreCrew": 5.715
+    },
+    {
+      "date": "2026-06-20",
+      "total": 14.823,
+      "partVariable": 8.604,
+      "coreCrew": 6.219
+    },
+    {
+      "date": "2026-06-21",
+      "total": 14.823,
+      "partVariable": 8.604,
+      "coreCrew": 6.219
+    },
+    {
+      "date": "2026-06-22",
+      "total": 15.516,
+      "partVariable": 8.172,
+      "coreCrew": 7.344
+    },
+    {
+      "date": "2026-06-23",
+      "total": 13.896,
+      "partVariable": 6.957,
+      "coreCrew": 6.939
+    },
+    {
+      "date": "2026-06-24",
+      "total": 27.792,
+      "partVariable": 13.914,
+      "coreCrew": 13.878
+    },
+    {
+      "date": "2026-06-25",
+      "total": 13.491,
+      "partVariable": 6.957,
+      "coreCrew": 6.534
+    },
+    {
+      "date": "2026-06-26",
+      "total": 11.493,
+      "partVariable": 4.797,
+      "coreCrew": 6.696
+    }
+  ],
+  "parSite": [
+    {
+      "site": "TRMPFK",
+      "poidsContractuel": 154.251
+    },
+    {
+      "site": "TRMPFQ",
+      "poidsContractuel": 6.282
+    },
+    {
+      "site": "BDM",
+      "poidsContractuel": 3.402
+    },
+    {
+      "site": "BDNM",
+      "poidsContractuel": 5.292
+    },
+    {
+      "site": "TRM2",
+      "poidsContractuel": 225.666
+    },
+    {
+      "site": "TRM1",
+      "poidsContractuel": 5.994
+    },
+    {
+      "site": "TNEM",
+      "poidsContractuel": 3.402
+    },
+    {
+      "site": "TRMPFC",
+      "poidsContractuel": 7.722
+    },
+    {
+      "site": "(vide)",
+      "poidsContractuel": 0
+    },
+    {
+      "site": "BSM",
+      "poidsContractuel": 4.032
+    },
+    {
+      "site": "AYOL",
+      "poidsContractuel": 3.402
+    }
+  ],
+  "parDemande": [
+    {
+      "demande": "Barrières en dure, supports life-boat+Divers",
+      "moyennePoids": 0.1296
+    },
+    {
+      "demande": "012/2026CRP-PJC",
+      "moyennePoids": null
+    },
+    {
+      "demande": "007/2026CRP-PJC",
+      "moyennePoids": null
+    },
+    {
+      "demande": "009/2026CRP-PJC",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0258/2026EXP",
+      "moyennePoids": 0.324
+    },
+    {
+      "demande": "0259/2026EXP",
+      "moyennePoids": 1.152
+    },
+    {
+      "demande": "013/2026CRP-PJC",
+      "moyennePoids": 2.673
+    },
+    {
+      "demande": "0282/2026EXP",
+      "moyennePoids": 1.701
+    },
+    {
+      "demande": "0291/2026EXP",
+      "moyennePoids": 0.432
+    },
+    {
+      "demande": "015/2026CRP-PJC",
+      "moyennePoids": 1.584
+    },
+    {
+      "demande": "0346/2026EXP",
+      "moyennePoids": 0.0
+    },
+    {
+      "demande": "0326/2026EXP",
+      "moyennePoids": 0.0
+    },
+    {
+      "demande": "026/2026CRP-PJC",
+      "moyennePoids": 0.0
+    },
+    {
+      "demande": "025/2026CRP-PJC",
+      "moyennePoids": null
+    },
+    {
+      "demande": "030/2026CRP-PJC",
+      "moyennePoids": 0.54
+    },
+    {
+      "demande": "027/2026CRP-PJC",
+      "moyennePoids": 2.16
+    },
+    {
+      "demande": "034/2026CRP-PJC",
+      "moyennePoids": null
+    },
+    {
+      "demande": "035/2026CRP-PJC",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0382/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0360/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0380/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "036/2026CRP-PJC",
+      "moyennePoids": 0.54
+    },
+    {
+      "demande": "0390/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0392/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0393/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0401/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0399/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "046/2026CRP-PJC",
+      "moyennePoids": 0.675
+    },
+    {
+      "demande": "0412/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0413/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0429/2026EXP",
+      "moyennePoids": 0.405
+    },
+    {
+      "demande": "0426/2026EXP",
+      "moyennePoids": null
+    },
+    {
+      "demande": "0431/2026EXP",
+      "moyennePoids": 0.405
+    },
+    {
+      "demande": "0397/2026EXP",
+      "moyennePoids": 0.256
+    },
+    {
+      "demande": "047/2026CRP-PJC",
+      "moyennePoids": 0.432
+    },
+    {
+      "demande": "0436/2026EXP",
+      "moyennePoids": 0.216
+    },
+    {
+      "demande": "0439/2026EXP",
+      "moyennePoids": 0.405
+    },
+    {
+      "demande": "0440/2026EXP",
+      "moyennePoids": 0.72
+    },
+    {
+      "demande": "0452/2026EXP",
+      "moyennePoids": 0.162
+    }
+  ],
+  "details": [
+    {
+      "champ": "TRM",
+      "description": "Divers: barrières en dure, supports etc life-boat",
+      "service": "Site",
+      "demandeur": null,
+      "numeroDemande": null,
+      "dateMontageReelle": null,
+      "dateDeposePrev": null,
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.1296,
+      "moyenneRetardDeposePrevVsReelle": -1.0,
+      "retardADate": null,
+      "retardNotif": 0.0,
+      "retardDepose": 0.0,
+      "arbitrageRetard": null,
+      "perte": null,
+      "dateDeposePrevManquante": true
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour appoint GO",
+      "service": "EXP",
+      "demandeur": "Claude PAMBOU BALENDA",
+      "numeroDemande": "0258/2026EXP",
+      "dateMontageReelle": "2026-04-09",
+      "dateDeposePrev": "2026-05-22",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.324,
+      "moyenneRetardDeposePrevVsReelle": -2.0,
+      "retardADate": 37.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 37.0,
+      "perte": 53946.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage qui servira comme barriere autour de la pompe de relevage au niveau 10 metre",
+      "service": "EXP",
+      "demandeur": "Claude PAMBOU BALENDA",
+      "numeroDemande": "0259/2026EXP",
+      "dateMontageReelle": "2026-04-09",
+      "dateDeposePrev": "2026-04-30",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 1.152,
+      "moyenneRetardDeposePrevVsReelle": -2.0,
+      "retardADate": 59.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 59.0,
+      "perte": 305856.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage en dessous 15 metre côté Nord-Ouest pour installation des compressuers temporaires",
+      "service": "Construction",
+      "demandeur": "Kossi KPEKOU",
+      "numeroDemande": "013/2026CRP-PJC",
+      "dateMontageReelle": "2026-04-17",
+      "dateDeposePrev": "2026-05-05",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 2.673,
+      "moyenneRetardDeposePrevVsReelle": -10.0,
+      "retardADate": 54.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 54.0,
+      "perte": 649539.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour échange standard des vannes 4'' by-pass & sortie DG-301",
+      "service": "EXP",
+      "demandeur": "Williams MOUTANDOU",
+      "numeroDemande": "0282/2026EXP",
+      "dateMontageReelle": "2026-04-18",
+      "dateDeposePrev": "2026-04-21",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 1.701,
+      "moyenneRetardDeposePrevVsReelle": -8.0,
+      "retardADate": 68.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 68.0,
+      "perte": 520506.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour accés à la flèche de la grue JD-401",
+      "service": "EXP",
+      "demandeur": "HAJ KACEM Yassine",
+      "numeroDemande": "0291/2026EXP",
+      "dateMontageReelle": "2026-04-20",
+      "dateDeposePrev": "2026-05-20",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.432,
+      "moyenneRetardDeposePrevVsReelle": -3.0,
+      "retardADate": 39.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 39.0,
+      "perte": 75816.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage en dessous 8 metre côté Nord-Ouest pour installation des compressuers temporaires",
+      "service": "Construction",
+      "demandeur": "Kossi KPEKOU",
+      "numeroDemande": "015/2026CRP-PJC",
+      "dateMontageReelle": "2026-04-20",
+      "dateDeposePrev": "2026-05-05",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": "Modification et remise en conformité",
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 1.584,
+      "moyenneRetardDeposePrevVsReelle": -13.0,
+      "retardADate": 54.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 54.0,
+      "perte": 384912.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour la mise en place du chemin de cable sousl'ancienne cabine BT afin de faire le raccordement du GE 715 OIS",
+      "service": "EXP",
+      "demandeur": "NZIENGUI ANGE",
+      "numeroDemande": "0326/2026EXP",
+      "dateMontageReelle": "2026-04-22",
+      "dateDeposePrev": "2026-05-20",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.0,
+      "moyenneRetardDeposePrevVsReelle": 12.0,
+      "retardADate": 39.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 39.0,
+      "perte": 0.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour le remplacement des brides tournantes niveau début passerelle TRMPFK-TRMPFQ",
+      "service": "Construction",
+      "demandeur": "Williams MOUTANDOU",
+      "numeroDemande": "026/2026CRP-PJC",
+      "dateMontageReelle": "2026-05-22",
+      "dateDeposePrev": "2026-05-25",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.0,
+      "moyenneRetardDeposePrevVsReelle": -12.0,
+      "retardADate": 34.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 34.0,
+      "perte": 0.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Potence pour mise en place d'un boulon sur le skid au niveau top-deck",
+      "service": "Construction",
+      "demandeur": "Stéphane PAMBOU",
+      "numeroDemande": "030/2026CRP-PJC",
+      "dateMontageReelle": "2026-05-27",
+      "dateDeposePrev": "2026-06-02",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.54,
+      "moyenneRetardDeposePrevVsReelle": -1.0,
+      "retardADate": 26.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 26.0,
+      "perte": 63180.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour travaux de tirage des cables électrique et strum dans la cabine élec au niveau",
+      "service": "Construction",
+      "demandeur": "Claude Gildas IKAPI",
+      "numeroDemande": "027/2026CRP-PJC",
+      "dateMontageReelle": "2026-05-28",
+      "dateDeposePrev": "2026-06-04",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 2.16,
+      "moyenneRetardDeposePrevVsReelle": -7.0,
+      "retardADate": 24.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 24.0,
+      "perte": 233280.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour la mise en place d'un hangar à compresseur sur TRM2",
+      "service": "Construction",
+      "demandeur": "Williams MOUTANDOU",
+      "numeroDemande": "036/2026CRP-PJC",
+      "dateMontageReelle": "2026-06-03",
+      "dateDeposePrev": "2026-06-16",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.54,
+      "moyenneRetardDeposePrevVsReelle": -108.0,
+      "retardADate": 12.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 12.0,
+      "perte": 29160.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour remplacement des caillebotis à la zone manifold",
+      "service": "EXP",
+      "demandeur": null,
+      "numeroDemande": "0346/2026EXP",
+      "dateMontageReelle": null,
+      "dateDeposePrev": null,
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.0,
+      "moyenneRetardDeposePrevVsReelle": 0.0,
+      "retardADate": null,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": null,
+      "perte": null,
+      "dateDeposePrevManquante": true
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour remplacement des brides tournantes au niveau 10 metre à la zone des compresseurs",
+      "service": "Construction",
+      "demandeur": "Williams MOUTANDOU",
+      "numeroDemande": "046/2026CRP-PJC",
+      "dateMontageReelle": "2026-06-11",
+      "dateDeposePrev": "2026-06-24",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.675,
+      "moyenneRetardDeposePrevVsReelle": -1.0,
+      "retardADate": 4.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 4.0,
+      "perte": 12150.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour ouverture du filtre IF-701",
+      "service": "EXP",
+      "demandeur": "Mohamed BIREM",
+      "numeroDemande": "0429/2026EXP",
+      "dateMontageReelle": "2026-06-17",
+      "dateDeposePrev": "2026-06-17",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.405,
+      "moyenneRetardDeposePrevVsReelle": -1.0,
+      "retardADate": 11.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 11.0,
+      "perte": 20047.5,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage autour de la tête de puits TRM028 pour operation de pompage",
+      "service": "FRC-OPP",
+      "demandeur": "Ulrich Agaya Raganyso",
+      "numeroDemande": "0431/2026EXP",
+      "dateMontageReelle": "2026-06-18",
+      "dateDeposePrev": "2026-06-23",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.405,
+      "moyenneRetardDeposePrevVsReelle": 1.0,
+      "retardADate": 5.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 5.0,
+      "perte": 9112.5,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Potence avec deux points de levage pour dépose de la pompe export GX-25005",
+      "service": "EXP",
+      "demandeur": "Mohamed BIREM",
+      "numeroDemande": "0397/2026EXP",
+      "dateMontageReelle": "2026-06-19",
+      "dateDeposePrev": "2026-07-20",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.288,
+      "moyenneRetardDeposePrevVsReelle": -5.0,
+      "retardADate": -22.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": -22.0,
+      "perte": -28512.0,
+      "dateDeposePrevManquante": false
+    },
+    {
+      "champ": "TRM",
+      "description": "Echafaudage pour le remplacement des brides tournantes au niveau 10 metre",
+      "service": "Construction",
+      "demandeur": "Williams MOUTANDOU",
+      "numeroDemande": "047/2026CRP-PJC",
+      "dateMontageReelle": "2026-06-19",
+      "dateDeposePrev": "2026-06-22",
+      "dateNotificationDepose": null,
+      "dateDeposeReelle": null,
+      "commentaires": null,
+      "savingDemontageTonne": null,
+      "savingDemontageCout": null,
+      "moyennePoidsContractuel": 0.432,
+      "moyenneRetardDeposePrevVsReelle": -2.0,
+      "retardADate": 6.0,
+      "retardNotif": null,
+      "retardDepose": null,
+      "arbitrageRetard": 6.0,
+      "perte": 11664.0,
+      "dateDeposePrevManquante": false
+    }
+  ]
+}

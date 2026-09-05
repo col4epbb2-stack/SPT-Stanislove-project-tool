@@ -1,0 +1,233 @@
+{
+  "intitulesFaitsMarquants": [
+    "FAITS MARQUANTS HSE",
+    "FAITS MARQUANTS PERSONNEL & MATERIEL"
+  ],
+  "typesTravaux": [
+    "Campagne PVV / STR",
+    "Core Crew",
+    "Campagne capacité",
+    "Arrêt / PS",
+    "Divers / Urgences Site"
+  ],
+  "risques": [
+    "Autres Risques",
+    "Risques HSE",
+    "Risques MAP"
+  ],
+  "statutsTravaux": [
+    "En Attente Préco",
+    "Survey en cours",
+    "Etudes en cours",
+    "Préfab en cours",
+    "En Attente Intervention",
+    "Attente Mob",
+    "En attente PDR",
+    "En Attente Arrêt",
+    "Terminé / En Attente DFA-CFP-CFT",
+    "Soldée / DFA-CFP-CFT Signé",
+    "Survey à réaliser",
+    "Travaux site en cours"
+  ],
+  "sites": [
+    "AGM4",
+    "AGM8",
+    "AGMP",
+    "AGM12",
+    "AGM13",
+    "AGM15",
+    "AGM4",
+    "AGM40",
+    "AGM6",
+    "AGM7",
+    "AGM8",
+    "AGMC",
+    "AGMP",
+    "AGMPFC",
+    "ANE",
+    "ANE1",
+    "ANE2",
+    "AYLM",
+    "BDNM",
+    "CEPG2",
+    "GAAM",
+    "LO14",
+    "PFC",
+    "PG2",
+    "PG2SE",
+    "TNEM",
+    "TRM1",
+    "TRM2",
+    "TRMPFC",
+    "TRMPFK",
+    "TRMPFQ",
+    "TRMPK",
+    "BDM",
+    "TCNE",
+    "BASE LOG",
+    "TC",
+    "POPC"
+  ],
+  "champs": [
+    "AGM",
+    "TRM",
+    "IM"
+  ],
+  "typesAvis": [
+    "Avis intégrité (hors TOP10)",
+    "03ST",
+    "01ST",
+    "Avis de maintenance",
+    "TEMP",
+    "NA",
+    "NC",
+    "Avis intégrité (hors TOP10)"
+  ],
+  "suiviPo": [
+    {
+      "bc": "4250036348",
+      "valeurCible": 103793086.0,
+      "consommation": null
+    },
+    {
+      "bc": "4250036286",
+      "valeurCible": 130351491.0,
+      "consommation": null
+    },
+    {
+      "bc": "4250036251",
+      "valeurCible": 112769089.0,
+      "consommation": null
+    },
+    {
+      "bc": "4250036205",
+      "valeurCible": 170273238.0,
+      "consommation": null
+    },
+    {
+      "bc": "4250036041",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036748",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250035870",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036479",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036251",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036568",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036678",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036569",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036399",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036735",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250036805",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250037022",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4350002204",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4350002205",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250037059",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250037021",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4350002230",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250037059",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4250037021",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "435000206",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4350002351",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4350002350",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "NC",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4350002346",
+      "valeurCible": null,
+      "consommation": null
+    },
+    {
+      "bc": "4350002339",
+      "valeurCible": null,
+      "consommation": null
+    }
+  ]
+}

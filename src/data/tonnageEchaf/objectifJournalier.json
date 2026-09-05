@@ -1,0 +1,3032 @@
+[
+  {
+    "champ": "AGM",
+    "date": "2026-01-01",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.9166666666666666
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-01",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 0.8333333333333333
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-02",
+    "objectifProductionT": 9.49962,
+    "partTempsProductif": 0.8333333333333333
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-03",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-03",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 0.8333333333333333
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-04",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-04",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 0.8333333333333333
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-05",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-05",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 0.8333333333333333
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-06",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-06",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 0.8333333333333333
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-07",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-07",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-08",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-08",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-09",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-09",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-10",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-11",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-12",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-13",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-14",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-15",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-16",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-17",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-18",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-19",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-20",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-21",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-22",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-23",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-24",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-25",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-01-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-26",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-01-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-27",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-01-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-28",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-29",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-01-29",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-29",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-30",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-01-30",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-30",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-01-31",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-01-31",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-01-31",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-01",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-02",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-03",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-04",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-05",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-06",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-07",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-08",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-09",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-16",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-17",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-18",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-19",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-20",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-21",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-22",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-23",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-24",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-25",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-26",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-27",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-02-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-02-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-02-28",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-01",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-02",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.8888888888888888
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-03",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-04",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-05",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-06",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.8333333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-16",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-20",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-21",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-22",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-23",
+    "objectifProductionT": 6.99972,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-24",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-25",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-26",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-27",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-28",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-29",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-29",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-29",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-30",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-30",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-30",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-03-31",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-03-31",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-03-31",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-01",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-02",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-03",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-04",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-05",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-06",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-07",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-08",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-09",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-10",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-11",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-12",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-13",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-14",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-15",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-16",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-17",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-18",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-19",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-20",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-21",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-22",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-23",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-24",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-25",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-26",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-27",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-28",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-29",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-29",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-29",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-04-30",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-04-30",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-04-30",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-01",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-02",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-02",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-03",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-03",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-04",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-04",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-05",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-05",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-06",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-06",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-07",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-07",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-08",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-08",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-08",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-09",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-09",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-09",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-10",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-10",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-10",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-11",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-11",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-12",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-12",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-13",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-13",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-14",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-14",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-15",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-15",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-16",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-16",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-17",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-17",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-18",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-18",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-19",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-19",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-20",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-20",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-21",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-21",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-22",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-22",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-23",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-23",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-24",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-24",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-25",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-25",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-26",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-26",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-27",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-27",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-27",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-28",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-28",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-28",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-29",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-29",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-29",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-30",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-30",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-30",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-05-31",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-05-31",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-05-31",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-01",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-01",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-01",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-02",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-02",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-02",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-03",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-03",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-03",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-04",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-04",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-04",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-05",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-05",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-05",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-06",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-06",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-06",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-12",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-12",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-12",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-07",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-07",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-07",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-08",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-08",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-08",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-09",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-09",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-09",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-10",
+    "objectifProductionT": 4.9998000000000005,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-10",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-10",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-11",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-11",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-11",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-13",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-13",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-13",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-14",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-14",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-14",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-15",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-15",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-15",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-16",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-16",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-16",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-17",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-17",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-17",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-18",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-18",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-18",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-19",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.6666666666666666
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-19",
+    "objectifProductionT": 5.99976,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-19",
+    "objectifProductionT": 9.999600000000001,
+    "partTempsProductif": 1
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-20",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.5833333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-20",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 0.7857142857142857
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-20",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.5833333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-21",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.75
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-21",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 0.7202380952380952
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-21",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.5555555555555556
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-22",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.6666666666666666
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-22",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 0.7619047619047619
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-22",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.5277777777777778
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-23",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.6666666666666666
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-23",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 0.75
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-23",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.5555555555555556
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-24",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.5833333333333334
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-24",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 0.75
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-24",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.6388888888888888
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-25",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.6666666666666666
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-25",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 0.7202380952380952
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-25",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.5833333333333334
+  },
+  {
+    "champ": "AGM",
+    "date": "2026-06-26",
+    "objectifProductionT": 2.4999000000000002,
+    "partTempsProductif": 0.75
+  },
+  {
+    "champ": "IM",
+    "date": "2026-06-26",
+    "objectifProductionT": 5.999759999999999,
+    "partTempsProductif": 0.7619047619047619
+  },
+  {
+    "champ": "TRM",
+    "date": "2026-06-26",
+    "objectifProductionT": 7.4997,
+    "partTempsProductif": 0.5
+  }
+]

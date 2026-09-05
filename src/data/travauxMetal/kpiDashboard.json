@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "titre": "RAPPORT HEBDO METAL - TOTAL GABON",
+    "dateSituation": "2026-07-12",
+    "semaine": 29.0,
+    "annee": 2026.0
+  },
+  "backlog2025": {
+    "totalAffaires": 33.0,
+    "terminees": 4.0,
+    "soldees": 3.0,
+    "backlog": 29.0
+  },
+  "backlogMensuel2026": [
+    {
+      "mois": "Janv",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 29.0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Févr",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Mars",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Avr",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Mai",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Juin",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Juil",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Août",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Sept",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Oct",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Nov",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    },
+    {
+      "mois": "Déc",
+      "nouvellesDemandes": 0,
+      "terminees": 0,
+      "soldees": 0,
+      "backlog": 0,
+      "backlogCorrige": 29.0,
+      "nouvellesCumulees": 0,
+      "termineesCumulees": 0,
+      "soldeesCumulees": 0,
+      "backlogCumule": 29.0
+    }
+  ],
+  "budgetsParChamp": [
+    {
+      "champ": "ILE MANDJI",
+      "mensuel": [
+        {
+          "mois": "Janv",
+          "partFixe": 60000000.0,
+          "partVariable": 20000000.0
+        },
+        {
+          "mois": "Févr",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Mars",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Avr",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Mai",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Juin",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Juil",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Août",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Sept",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Oct",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Nov",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Déc",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        }
+      ],
+      "totalPartFixe": 720000000.0,
+      "totalPartVariable": 20000000.0
+    },
+    {
+      "champ": "TORPILLE",
+      "mensuel": [
+        {
+          "mois": "Janv",
+          "partFixe": 60000000.0,
+          "partVariable": 50000000.0
+        },
+        {
+          "mois": "Févr",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Mars",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Avr",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Mai",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Juin",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Juil",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Août",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Sept",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Oct",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Nov",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Déc",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        }
+      ],
+      "totalPartFixe": 720000000.0,
+      "totalPartVariable": 50000000.0
+    },
+    {
+      "champ": "ANGUILLE",
+      "mensuel": [
+        {
+          "mois": "Janv",
+          "partFixe": 60000000.0,
+          "partVariable": 30000000.0
+        },
+        {
+          "mois": "Févr",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Mars",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Avr",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Mai",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Juin",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Juil",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Août",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Sept",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Oct",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Nov",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        },
+        {
+          "mois": "Déc",
+          "partFixe": 60000000.0,
+          "partVariable": 0
+        }
+      ],
+      "totalPartFixe": 720000000.0,
+      "totalPartVariable": 30000000.0
+    }
+  ]
+}

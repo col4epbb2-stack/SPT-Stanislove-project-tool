@@ -1,0 +1,557 @@
+{
+ "resumeAerien": {
+  "quantite": 21808.0,
+  "livres": 8368.0,
+  "pct": 0.383712
+ },
+ "livraisonParScope": [
+  {
+   "scope": "banc de test (interne) pour les vannes",
+   "numeroPo": "4550043888",
+   "quantite": 1.0,
+   "lieuLivraison": null,
+   "totalArticles": 1.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "CAPACITES (VISITE INTERNE/INSPECTION)",
+   "numeroPo": "4550044210",
+   "quantite": 5428.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 5428.0,
+   "livres": 3242.0,
+   "pctLivraison": 0.597273
+  },
+  {
+   "scope": "CTA/ SPARE PART DDM",
+   "numeroPo": "4550044022",
+   "quantite": 265.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 265.0,
+   "livres": 216.0,
+   "pctLivraison": 0.815094
+  },
+  {
+   "scope": "DDM (CLASSE 1)  130045 : AGM8 Remplacement de la cuve de purge non conforme",
+   "numeroPo": "4550044029",
+   "quantite": 1770.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 1776.0,
+   "livres": 1091.0,
+   "pctLivraison": 0.614302
+  },
+  {
+   "scope": "DDM (CLASSE 1) 120038: Remplacement des Compresseurs à air obsolètes en Offshore AGM",
+   "numeroPo": "4550044030",
+   "quantite": 445.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 710.0,
+   "livres": 445.0,
+   "pctLivraison": 0.626761
+  },
+  {
+   "scope": "DDM (CLASSE 1) 200021 : Retrofit scrubbers inter étage KY600",
+   "numeroPo": "4550044025",
+   "quantite": 163.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 297.0,
+   "livres": 49.0,
+   "pctLivraison": 0.164983
+  },
+  {
+   "scope": "DDM (CLASSE 1) 2022-000001 GAAM PV control Phase 1",
+   "numeroPo": "4550044205",
+   "quantite": 1698.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 1698.0,
+   "livres": 190.0,
+   "pctLivraison": 0.111896
+  },
+  {
+   "scope": "DDM (CLASSE 1) 210006 : Installation de compresseur à air sur GAAM",
+   "numeroPo": "4550044023",
+   "quantite": 15.0,
+   "lieuLivraison": null,
+   "totalArticles": 1106.0,
+   "livres": 316.0,
+   "pctLivraison": 0.285714
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220008 : Remplacement nez de torche",
+   "numeroPo": "4550043955",
+   "quantite": 1.0,
+   "lieuLivraison": null,
+   "totalArticles": 415.0,
+   "livres": 173.0,
+   "pctLivraison": 0.416867
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220010 : Modification sortie liquide DS 601 aspiration KY600",
+   "numeroPo": "4550044204",
+   "quantite": 811.0,
+   "lieuLivraison": null,
+   "totalArticles": 811.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220011 : Installation de filtres à l’aspiration - Fiabilisation pompes export AGMP",
+   "numeroPo": "4550044345",
+   "quantite": 217.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 217.0,
+   "livres": 18.0,
+   "pctLivraison": 0.082949
+  },
+  {
+   "scope": "DDM (CLASSE 2) 190013 : Remplacement métallurgie tuyauterie gaz process KY-600",
+   "numeroPo": "4550044204",
+   "quantite": 151.0,
+   "lieuLivraison": null,
+   "totalArticles": 151.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "DDM (CLASSE 2) 200002 : Installation de débitmétre sur les lignes de torche AGM",
+   "numeroPo": "4550044027",
+   "quantite": 206.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 210.0,
+   "livres": 206.0,
+   "pctLivraison": 0.980952
+  },
+  {
+   "scope": "DDM (CLASSE 2) 210013 : Mise en conformité export GAAM vers PG2",
+   "numeroPo": "4550044315",
+   "quantite": 26.0,
+   "lieuLivraison": null,
+   "totalArticles": 26.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "DDM (CLASSE 2) Upgrade comptage",
+   "numeroPo": "4550044231",
+   "quantite": 685.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 685.0,
+   "livres": 168.0,
+   "pctLivraison": 0.245255
+  },
+  {
+   "scope": "DDM 190023 : Dégoulottage export gaz HP",
+   "numeroPo": "4550044344",
+   "quantite": 384.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 384.0,
+   "livres": 54.0,
+   "pctLivraison": 0.140625
+  },
+  {
+   "scope": "Electrification de GAAM",
+   "numeroPo": "4550042951",
+   "quantite": 1.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 1.0,
+   "livres": 1.0,
+   "pctLivraison": 1.0
+  },
+  {
+   "scope": "PAREFLAMMES (REMPLACEMENT  LH)",
+   "numeroPo": "4550044187",
+   "quantite": 1.0,
+   "lieuLivraison": null,
+   "totalArticles": 1.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "SOUPAPES (REMPLACEMENT PSV > 6'')",
+   "numeroPo": "4550044128",
+   "quantite": 2.0,
+   "lieuLivraison": null,
+   "totalArticles": 2.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "SPE/ELECTRICITE",
+   "numeroPo": "4550043802",
+   "quantite": 2.0,
+   "lieuLivraison": null,
+   "totalArticles": 2.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "SPE/INS - TRAVAUX & REMPLACEMENT VANNES",
+   "numeroPo": "4550043557",
+   "quantite": 1.0,
+   "lieuLivraison": null,
+   "totalArticles": 86.0,
+   "livres": 3.0,
+   "pctLivraison": 0.034884
+  },
+  {
+   "scope": "SPE/INSPECTION - RACLAGE INSTRUMENTE - (RI)",
+   "numeroPo": "4550044229",
+   "quantite": 6.0,
+   "lieuLivraison": null,
+   "totalArticles": 6.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - DDM - (CLASSE 2) 130040 : Installation des duses automatiques",
+   "numeroPo": "4550043983",
+   "quantite": 10.0,
+   "lieuLivraison": null,
+   "totalArticles": 10.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - SOUPAPE - (REMPLACEMENT PSV < 6'')",
+   "numeroPo": "4550044128",
+   "quantite": 5.0,
+   "lieuLivraison": null,
+   "totalArticles": 5.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - SYSTÈME",
+   "numeroPo": "4550044201",
+   "quantite": 2.0,
+   "lieuLivraison": null,
+   "totalArticles": 2.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "SPE/TRAVAUX D'OPPORTUNITE",
+   "numeroPo": "4550043498",
+   "quantite": 1.0,
+   "lieuLivraison": null,
+   "totalArticles": 23.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "TRAVAUX INTEGRITE (Camp. Int.)",
+   "numeroPo": "4550044061",
+   "quantite": 3857.0,
+   "lieuLivraison": "POG",
+   "totalArticles": 3857.0,
+   "livres": 2196.0,
+   "pctLivraison": 0.569354
+  },
+  {
+   "scope": "VANNES (REMPLACEMENT > 6'')",
+   "numeroPo": "4550043966",
+   "quantite": 610.0,
+   "lieuLivraison": null,
+   "totalArticles": 630.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "multitanks fûts  polythylène fut/bidon 60 litres bleu à ouverture total",
+   "numeroPo": "4550044483",
+   "quantite": 300.0,
+   "lieuLivraison": null,
+   "totalArticles": 300.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "Matériel Commissioning",
+   "numeroPo": "4550044490",
+   "quantite": 12.0,
+   "lieuLivraison": null,
+   "totalArticles": 12.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "KY-600 / Package : Mise en conformité des supports du pipping",
+   "numeroPo": "4550044025",
+   "quantite": 139.0,
+   "lieuLivraison": null,
+   "totalArticles": 139.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "TRAVAUX INTEGRITE (AVIS_MTL)",
+   "numeroPo": "4550044061",
+   "quantite": 1224.0,
+   "lieuLivraison": null,
+   "totalArticles": 1224.0,
+   "livres": 0,
+   "pctLivraison": 0
+  },
+  {
+   "scope": "MAD/Platinage des installations du site",
+   "numeroPo": "4550044574",
+   "quantite": 1328.0,
+   "lieuLivraison": null,
+   "totalArticles": 1328.0,
+   "livres": 0,
+   "pctLivraison": 0
+  }
+ ],
+ "posReceptionEtaPog": [
+  "4550042951",
+  "4550043923",
+  "4550044022",
+  "4550044025",
+  "4550044027",
+  "4550044029",
+  "4550044030",
+  "4550044031",
+  "4550044061",
+  "4550044205",
+  "4550044210",
+  "4550044231",
+  "4550044275",
+  "4550044344",
+  "4550044345"
+ ],
+ "posCheckLbv": [
+  "4550043946",
+  "4550043992",
+  "4550044023",
+  "4550044025",
+  "4550044029",
+  "4550044030",
+  "4550044031",
+  "4550044032",
+  "4550044128",
+  "4550044344",
+  "4550044345",
+  "4950030635"
+ ],
+ "livraisonMagasinParPo": [
+  {
+   "scope": "SCOPE",
+   "numeroPo": "N° PO ou N°DA",
+   "quantite": null
+  },
+  {
+   "scope": "CAPACITES (VISITE INTERNE/INSPECTION)",
+   "numeroPo": "4550044210",
+   "quantite": 3242.0
+  },
+  {
+   "scope": "CTA/ SPARE PART DDM",
+   "numeroPo": "4550044022",
+   "quantite": 216.0
+  },
+  {
+   "scope": "DDM (CLASSE 1)  130045 : AGM8 Remplacement de la cuve de purge non conforme",
+   "numeroPo": "4550044029",
+   "quantite": 1091.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 120038: Remplacement des Compresseurs à air obsolètes en Offshore AGM",
+   "numeroPo": "4550044030",
+   "quantite": 445.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 200021 : Retrofit scrubbers inter étage KY600",
+   "numeroPo": "4550044025",
+   "quantite": 49.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 2022-000001 GAAM PV control Phase 1",
+   "numeroPo": "4550044205",
+   "quantite": 190.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 210006 : Installation de compresseur à air sur GAAM",
+   "numeroPo": "4550044025",
+   "quantite": 316.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220008 : Remplacement nez de torche",
+   "numeroPo": "4550044031",
+   "quantite": 173.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220011 : Installation de filtres à l’aspiration - Fiabilisation pompes export AGMP",
+   "numeroPo": "4550044345",
+   "quantite": 18.0
+  },
+  {
+   "scope": "DDM (CLASSE 2) 200002 : Installation de débitmétre sur les lignes de torche AGM",
+   "numeroPo": "4550044027",
+   "quantite": 206.0
+  },
+  {
+   "scope": "DDM (CLASSE 2) Upgrade comptage",
+   "numeroPo": "4550044231",
+   "quantite": 168.0
+  },
+  {
+   "scope": "DDM 190023 : Dégoulottage export gaz HP",
+   "numeroPo": "4550044344",
+   "quantite": 54.0
+  },
+  {
+   "scope": "Electrification de GAAM",
+   "numeroPo": "4550042951",
+   "quantite": 1.0
+  },
+  {
+   "scope": "SPE/INS - TRAVAUX & REMPLACEMENT VANNES",
+   "numeroPo": null,
+   "quantite": 3.0
+  },
+  {
+   "scope": "TRAVAUX INTEGRITE (Camp. Int.)",
+   "numeroPo": "4550044061",
+   "quantite": 2196.0
+  }
+ ],
+ "aerienParScope": [
+  {
+   "scope": "SCOPE",
+   "quantite": null
+  },
+  {
+   "scope": "banc de test (interne) pour les vannes",
+   "quantite": 1.0
+  },
+  {
+   "scope": "CAPACITES (VISITE INTERNE/INSPECTION)",
+   "quantite": 5428.0
+  },
+  {
+   "scope": "CTA/ SPARE PART DDM",
+   "quantite": 265.0
+  },
+  {
+   "scope": "DDM (CLASSE 1)  130045 : AGM8 Remplacement de la cuve de purge non conforme",
+   "quantite": 1776.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 120038: Remplacement des Compresseurs à air obsolètes en Offshore AGM",
+   "quantite": 710.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 200021 : Retrofit scrubbers inter étage KY600",
+   "quantite": 297.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 2022-000001 GAAM PV control Phase 1",
+   "quantite": 1698.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 210006 : Installation de compresseur à air sur GAAM",
+   "quantite": 1106.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220008 : Remplacement nez de torche",
+   "quantite": 415.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220010 : Modification sortie liquide DS 601 aspiration KY600",
+   "quantite": 811.0
+  },
+  {
+   "scope": "DDM (CLASSE 1) 220011 : Installation de filtres à l’aspiration - Fiabilisation pompes export AGMP",
+   "quantite": 217.0
+  },
+  {
+   "scope": "DDM (CLASSE 2) 190013 : Remplacement métallurgie tuyauterie gaz process KY-600",
+   "quantite": 151.0
+  },
+  {
+   "scope": "DDM (CLASSE 2) 200002 : Installation de débitmétre sur les lignes de torche AGM",
+   "quantite": 210.0
+  },
+  {
+   "scope": "DDM (CLASSE 2) 210013 : Mise en conformité export GAAM vers PG2",
+   "quantite": 26.0
+  },
+  {
+   "scope": "DDM (CLASSE 2) Upgrade comptage",
+   "quantite": 685.0
+  },
+  {
+   "scope": "DDM 190023 : Dégoulottage export gaz HP",
+   "quantite": 384.0
+  },
+  {
+   "scope": "Electrification de GAAM",
+   "quantite": 1.0
+  },
+  {
+   "scope": "PAREFLAMMES (REMPLACEMENT  LH)",
+   "quantite": 1.0
+  },
+  {
+   "scope": "SOUPAPES (REMPLACEMENT PSV > 6'')",
+   "quantite": 2.0
+  },
+  {
+   "scope": "SPE/ELECTRICITE",
+   "quantite": 2.0
+  },
+  {
+   "scope": "SPE/INS - TRAVAUX & REMPLACEMENT VANNES",
+   "quantite": 86.0
+  },
+  {
+   "scope": "SPE/INSPECTION - RACLAGE INSTRUMENTE - (RI)",
+   "quantite": 6.0
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - DDM - (CLASSE 2) 130040 : Installation des duses automatiques",
+   "quantite": 10.0
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - SOUPAPE - (REMPLACEMENT PSV < 6'')",
+   "quantite": 5.0
+  },
+  {
+   "scope": "SPE/INSTRUMENTATION - SYSTÈME",
+   "quantite": 2.0
+  },
+  {
+   "scope": "SPE/TRAVAUX D'OPPORTUNITE",
+   "quantite": 23.0
+  },
+  {
+   "scope": "TRAVAUX INTEGRITE (Camp. Int.)",
+   "quantite": 3857.0
+  },
+  {
+   "scope": "VANNES (REMPLACEMENT > 6'')",
+   "quantite": 630.0
+  },
+  {
+   "scope": "multitanks fûts  polythylène fut/bidon 60 litres bleu à ouverture total",
+   "quantite": 300.0
+  },
+  {
+   "scope": "Matériel Commissioning",
+   "quantite": 12.0
+  },
+  {
+   "scope": "KY-600 / Package : Mise en conformité des supports du pipping",
+   "quantite": 139.0
+  },
+  {
+   "scope": "TRAVAUX INTEGRITE (AVIS_MTL)",
+   "quantite": 1224.0
+  },
+  {
+   "scope": "MAD/Platinage des installations du site",
+   "quantite": 1328.0
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+  "heuresProductivite": [
+    {
+      "champ": "AGM",
+      "heuresParJour": 12.0,
+      "objectifKgParHeure": 83.33
+    },
+    {
+      "champ": "IM",
+      "heuresParJour": 12.0,
+      "objectifKgParHeure": 83.33
+    },
+    {
+      "champ": "TRM",
+      "heuresParJour": 12.0,
+      "objectifKgParHeure": 83.33
+    }
+  ],
+  "objectifProductionKgParHeureHomme": 83.0,
+  "equipeCoreCrew": [
+    {
+      "nom": "ENOMBO OBOUGOU Loïc",
+      "profil": "Monteur"
+    },
+    {
+      "nom": "BOUASSA BISSIELOU Andy",
+      "profil": "Chef d'Equipe"
+    },
+    {
+      "nom": "BOUSSOUGOU Dieudonné",
+      "profil": "Monteur"
+    },
+    {
+      "nom": "MOUSSAVOU MOUDJEGOU Camille",
+      "profil": "Chef d'Equipe"
+    },
+    {
+      "nom": "MAVOUROULOU Jean Paul",
+      "profil": "Monteur"
+    },
+    {
+      "nom": "MASSIMA Marcel",
+      "profil": "Chef d'Equipe"
+    },
+    {
+      "nom": "KOUMBA AZIZET Darlhy",
+      "profil": "Monteur"
+    },
+    {
+      "nom": "YENO ONANGA Hugues Martial",
+      "profil": "Monteur"
+    },
+    {
+      "nom": "NTOGOLO DJODJI Cédric",
+      "profil": "Monteur"
+    }
+  ]
+}

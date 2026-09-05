@@ -1,0 +1,300 @@
+{
+ "contrat": "CTA22C03",
+ "fournisseur": "G.M.I",
+ "coeffNuitOffshore": 1.5,
+ "coeffNuitOnshore": 1.3,
+ "ndcOffshore": 335000,
+ "ndcOnshore": 300000,
+ "forfaitEquipeOffshoreMois": 6000000,
+ "tarifJourChefOffshore": 69500,
+ "tarifJourCoordinateurOffshore": 62500,
+ "tarifJourMonteursOffshore": 62500,
+ "tarifJourChefCoordinateurOnshore": 67500,
+ "tarifJourMonteursOnshore": 61500,
+ "pointLocationOffshore": 180,
+ "pointLocationOnshore": 140,
+ "lignes": [
+  {
+   "numero": 1,
+   "rubrique": "Tarifs de Personnel",
+   "description": "Tarif forfaitaire matriciel incluant le survey, les montage/démontage et les verifications pour:\n          - campagne Metal\n          - activité Metal\n          - Projets, Travaux et tous autres besoins specifiques autres et hors activité METAL",
+   "offshoreTarif": 25000,
+   "offshoreUnite": "CFA/Point bordereau",
+   "onshoreTarif": 23500,
+   "onshoreUnite": "CFA/Point bordereau"
+  },
+  {
+   "numero": 2,
+   "rubrique": "Tarifs de Personnel",
+   "description": "Coefficient pour travail de nuit (21hr-6hr) applicable au prorata des heures sur tarifs de Personnel",
+   "offshoreTarif": 1.5,
+   "offshoreUnite": "Coef.",
+   "onshoreTarif": 1.3,
+   "onshoreUnite": "Coef."
+  },
+  {
+   "numero": 3,
+   "rubrique": "Tarifs de Personnel",
+   "description": "Note de calcul forfaitaire",
+   "offshoreTarif": 335000,
+   "offshoreUnite": "CFA",
+   "onshoreTarif": 300000,
+   "onshoreUnite": "CFA"
+  },
+  {
+   "numero": 4,
+   "rubrique": "Tarifs de Personne TRM et AGM",
+   "description": "FORFAIT EQUIPE permanente sur SITES OFFSHORE couvrant le SERVICE pour les besoins du contrat METAL",
+   "offshoreTarif": 6000000,
+   "offshoreUnite": "CFA/mois/Equipe",
+   "onshoreTarif": null,
+   "onshoreUnite": null
+  },
+  {
+   "numero": 5,
+   "rubrique": "Tarifs de Personne TRM et AGM",
+   "description": "Chef d'équipe/vérificateur Coordinateur/réceptionneur",
+   "offshoreTarif": 69500,
+   "offshoreUnite": "CFA/jour",
+   "onshoreTarif": null,
+   "onshoreUnite": null
+  },
+  {
+   "numero": 6,
+   "rubrique": "Tarifs de Personne TRM et AGM",
+   "description": "Monteurs /vérificateur/Secouriste sauveteurs travaux en hauteur",
+   "offshoreTarif": 62500,
+   "offshoreUnite": "CFA/jour",
+   "onshoreTarif": null,
+   "onshoreUnite": null
+  },
+  {
+   "numero": 7,
+   "rubrique": "Tarifs de Personne TRM et AGM",
+   "description": "Monteurs /Cordiste/Secouriste sauveteurs travaux en hauteur",
+   "offshoreTarif": 62500,
+   "offshoreUnite": "CFA/jour",
+   "onshoreTarif": null,
+   "onshoreUnite": null
+  },
+  {
+   "numero": null,
+   "rubrique": "Tarifs de Personnel Ile Mandji",
+   "description": "Chef d'équipe/vérificateur Coordinateur/réceptionneur",
+   "offshoreTarif": null,
+   "offshoreUnite": null,
+   "onshoreTarif": 67500,
+   "onshoreUnite": "CFA/jour"
+  },
+  {
+   "numero": null,
+   "rubrique": "Tarifs de Personnel Ile Mandji",
+   "description": "Monteurs /vérificateur/Secouriste sauveteurs travaux en hauteur",
+   "offshoreTarif": null,
+   "offshoreUnite": null,
+   "onshoreTarif": 61500,
+   "onshoreUnite": "CFA/jour"
+  },
+  {
+   "numero": null,
+   "rubrique": "Tarifs de Personnel Ile Mandji",
+   "description": "Monteurs /Cordiste/Secouriste sauveteurs travaux en hauteur",
+   "offshoreTarif": null,
+   "offshoreUnite": null,
+   "onshoreTarif": 61500,
+   "onshoreUnite": "CFA/jour"
+  },
+  {
+   "numero": 8,
+   "rubrique": "Matériel",
+   "description": "Tarif forfaitaire pour 0 à 10 Tonnes mobilisée pour activité METAL",
+   "offshoreTarif": 4650,
+   "offshoreUnite": "CFA/Tonne/jours",
+   "onshoreTarif": null,
+   "onshoreUnite": null
+  },
+  {
+   "numero": null,
+   "rubrique": "Matériel",
+   "description": "Tarif forfaitaire pour 11à 20 Tonnes mobilisée pour activité METAL",
+   "offshoreTarif": 3450,
+   "offshoreUnite": "CFA/Tonne/jours",
+   "onshoreTarif": null,
+   "onshoreUnite": null
+  },
+  {
+   "numero": null,
+   "rubrique": "Matériel",
+   "description": "Tarif forfaitaire pour 21 à 40 Tonnes mobilisée pour activité METAL",
+   "offshoreTarif": 3050,
+   "offshoreUnite": "CFA/Tonne/jours",
+   "onshoreTarif": null,
+   "onshoreUnite": null
+  },
+  {
+   "numero": 9,
+   "rubrique": "Matériel",
+   "description": "Tarif forfaitaire matriciel à points\n                                 Campagne Métal\n                                 Projets, Travaux et tous autres besoins spécifiques autres et hors activité METAL",
+   "offshoreTarif": 180,
+   "offshoreUnite": "CFA/Point bordereau",
+   "onshoreTarif": 140,
+   "onshoreUnite": "CFA/Point bordereau"
+  }
+ ],
+ "bareme": {
+  "coeffSuspendu": 1.25,
+  "coeffAssistance": 1.25,
+  "coeffOffshore": 1.2,
+  "coeffOnshore": 1,
+  "tarifPointOffshore": 25000,
+  "tarifPointOnshore": 23500,
+  "tauxPose": 0.7,
+  "tauxDepose": 0.3,
+  "equations": [
+   {
+    "h": 2,
+    "equation": "0,1911.S +5,9333",
+    "a": 0.1911,
+    "b": 5.9333
+   },
+   {
+    "h": 3,
+    "equation": "0,1872.S +6,838",
+    "a": 0.1872,
+    "b": 6.838
+   },
+   {
+    "h": 4,
+    "equation": "0,1925.S +8,1166",
+    "a": 0.1925,
+    "b": 8.1166
+   },
+   {
+    "h": 5,
+    "equation": "0,2450.S +8,8015",
+    "a": 0.245,
+    "b": 8.8015
+   },
+   {
+    "h": 6,
+    "equation": "0,2438.S +10,339",
+    "a": 0.2438,
+    "b": 10.339
+   },
+   {
+    "h": 7,
+    "equation": "0,2667.S +11,668",
+    "a": 0.2667,
+    "b": 11.668
+   },
+   {
+    "h": 8,
+    "equation": "0,3416.S +13,527",
+    "a": 0.3416,
+    "b": 13.527
+   },
+   {
+    "h": 9,
+    "equation": "0,3489.S +15,387",
+    "a": 0.348,
+    "b": 15.38
+   },
+   {
+    "h": 10,
+    "equation": "0,3627.S +17,375",
+    "a": 0.3627,
+    "b": 17.375
+   },
+   {
+    "h": 11,
+    "equation": "0,5272.S +18,762",
+    "a": 0.5272,
+    "b": 18.762
+   },
+   {
+    "h": 12,
+    "equation": "0,5498.S +20,522",
+    "a": 0.5498,
+    "b": 20.522
+   },
+   {
+    "h": 13,
+    "equation": "0,5698.S +22,822",
+    "a": 0.5698,
+    "b": 22.822
+   },
+   {
+    "h": 14,
+    "equation": "0,5906.S +25,981",
+    "a": 0.5906,
+    "b": 25.981
+   },
+   {
+    "h": 15,
+    "equation": "0,6616.S +28,462",
+    "a": 0.6616,
+    "b": 28.462
+   },
+   {
+    "h": 16,
+    "equation": "0,7327.S +30,943",
+    "a": 0.7327,
+    "b": 30.943
+   },
+   {
+    "h": 17,
+    "equation": "0,7512.S +33,295",
+    "a": 0.7512,
+    "b": 33.295
+   },
+   {
+    "h": 18,
+    "equation": "0,7696.S +35,647",
+    "a": 0.7696,
+    "b": 35.647
+   },
+   {
+    "h": 19,
+    "equation": "0,8098.S +38,675",
+    "a": 0.8098,
+    "b": 38.675
+   },
+   {
+    "h": 20,
+    "equation": "0,8499.S +41,703",
+    "a": 0.8499,
+    "b": 41.703
+   },
+   {
+    "h": 21,
+    "equation": "0,8952.S +43,671",
+    "a": 0.8952,
+    "b": 43.671
+   },
+   {
+    "h": 22,
+    "equation": "0,9155.S +45,758",
+    "a": 0.9155,
+    "b": 45.758
+   },
+   {
+    "h": 23,
+    "equation": "0,9546.S +48,837",
+    "a": 0.9546,
+    "b": 48.837
+   },
+   {
+    "h": 24,
+    "equation": "0,9936.S +51,915",
+    "a": 0.9936,
+    "b": 51.915
+   },
+   {
+    "h": 25,
+    "equation": "1,0285.S +55,069",
+    "a": 1.0285,
+    "b": 55.069
+   }
+  ]
+ }
+}

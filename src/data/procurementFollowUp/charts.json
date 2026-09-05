@@ -1,0 +1,3081 @@
+{
+ "prep": {
+  "avancementParObjet": [
+   {
+    "objet": "MTO/OT",
+    "pct": 1.0,
+    "restant": 0
+   },
+   {
+    "objet": "DA",
+    "pct": 1.0,
+    "restant": 0
+   },
+   {
+    "objet": "PO",
+    "pct": 1.0,
+    "restant": 0
+   }
+  ],
+  "avancementGlobal": {
+   "libelle": "PROJET",
+   "pct": 1.0,
+   "restant": 0
+  },
+  "limiteJours": 516,
+  "livraisonExw": [
+   {
+    "date": "2022-07-20",
+    "plateforme": "AGMP",
+    "semaine": "s30",
+    "po": "PO4550043489",
+    "duree": 200.0
+   },
+   {
+    "date": "2022-07-20",
+    "plateforme": "AGM15",
+    "semaine": "s30",
+    "po": "PO4550043489",
+    "duree": 200.0
+   },
+   {
+    "date": "2022-07-21",
+    "plateforme": "AGM PFC",
+    "semaine": "s30",
+    "po": "PO4550044061",
+    "duree": 201.0
+   },
+   {
+    "date": "2022-09-29",
+    "plateforme": "AGMP",
+    "semaine": "s40",
+    "po": "PO4550043644",
+    "duree": 271.0
+   },
+   {
+    "date": "2022-12-20",
+    "plateforme": "AGM7",
+    "semaine": "s52",
+    "po": "PO4550043547",
+    "duree": 353.0
+   },
+   {
+    "date": "2022-12-20",
+    "plateforme": "AGMP",
+    "semaine": "s52",
+    "po": "PO4550043547",
+    "duree": 353.0
+   },
+   {
+    "date": "2023-01-09",
+    "plateforme": "AGMP",
+    "semaine": "s2",
+    "po": "PO4550043473",
+    "duree": 373.0
+   },
+   {
+    "date": "2023-01-09",
+    "plateforme": "AGMP",
+    "semaine": "s2",
+    "po": "PO4550043902",
+    "duree": 373.0
+   },
+   {
+    "date": "2023-01-09",
+    "plateforme": "AGM6",
+    "semaine": "s2",
+    "po": "PO4550043902",
+    "duree": 373.0
+   },
+   {
+    "date": "2023-01-14",
+    "plateforme": "GAAM",
+    "semaine": "s2",
+    "po": "PO4550044269",
+    "duree": 378.0
+   },
+   {
+    "date": "2023-01-17",
+    "plateforme": "AGMP",
+    "semaine": "s3",
+    "po": "PO4550043946",
+    "duree": 381.0
+   },
+   {
+    "date": "2023-01-17",
+    "plateforme": "AGM11",
+    "semaine": "s3",
+    "po": "PO4550043946",
+    "duree": 381.0
+   },
+   {
+    "date": "2023-01-30",
+    "plateforme": "GAAM",
+    "semaine": "s5",
+    "po": "PO4550042951",
+    "duree": 394.0
+   },
+   {
+    "date": "2023-02-03",
+    "plateforme": "AGMN",
+    "semaine": "s5",
+    "po": "PO4550043992",
+    "duree": 398.0
+   },
+   {
+    "date": "2023-02-03",
+    "plateforme": "AGMP",
+    "semaine": "s5",
+    "po": "PO4550043992",
+    "duree": 398.0
+   },
+   {
+    "date": "2023-02-03",
+    "plateforme": "GAAM",
+    "semaine": "s5",
+    "po": "PO4550043992",
+    "duree": 398.0
+   },
+   {
+    "date": "2023-02-03",
+    "plateforme": "AGM PFC",
+    "semaine": "s5",
+    "po": "PO4550043992",
+    "duree": 398.0
+   },
+   {
+    "date": "2023-02-03",
+    "plateforme": "AGM6",
+    "semaine": "s5",
+    "po": "PO4550043992",
+    "duree": 398.0
+   },
+   {
+    "date": "2023-02-10",
+    "plateforme": "AGM",
+    "semaine": "s6",
+    "po": "PO4550044022",
+    "duree": 405.0
+   },
+   {
+    "date": "2023-02-16",
+    "plateforme": "AGMP",
+    "semaine": "s7",
+    "po": "PO4550044030",
+    "duree": 411.0
+   },
+   {
+    "date": "2023-02-16",
+    "plateforme": "AGMP",
+    "semaine": "s7",
+    "po": "PO4550044070",
+    "duree": 411.0
+   },
+   {
+    "date": "2023-02-17",
+    "plateforme": "AGMP",
+    "semaine": "s7",
+    "po": "PO4550044061",
+    "duree": 412.0
+   },
+   {
+    "date": "2023-02-21",
+    "plateforme": "GAAM",
+    "semaine": "s8",
+    "po": "PO4550043973",
+    "duree": 416.0
+   },
+   {
+    "date": "2023-02-23",
+    "plateforme": "AGMP",
+    "semaine": "s8",
+    "po": "PO4550043498",
+    "duree": 418.0
+   },
+   {
+    "date": "2023-02-27",
+    "plateforme": "AGMP",
+    "semaine": "s9",
+    "po": "PO4550044188",
+    "duree": 422.0
+   },
+   {
+    "date": "2023-03-02",
+    "plateforme": "AGM",
+    "semaine": "s9",
+    "po": "PO4550043399",
+    "duree": 425.0
+   },
+   {
+    "date": "2023-03-05",
+    "plateforme": "AGMP",
+    "semaine": "s10",
+    "po": "PO4950030635",
+    "duree": 428.0
+   },
+   {
+    "date": "2023-03-05",
+    "plateforme": "AGMP",
+    "semaine": "s10",
+    "po": "PO4550043489",
+    "duree": 428.0
+   },
+   {
+    "date": "2023-03-06",
+    "plateforme": "ASW",
+    "semaine": "s10",
+    "po": "PO4550043415",
+    "duree": 429.0
+   },
+   {
+    "date": "2023-03-10",
+    "plateforme": "AGMN",
+    "semaine": "s10",
+    "po": "PO4550044128",
+    "duree": 433.0
+   },
+   {
+    "date": "2023-03-10",
+    "plateforme": "AGMP",
+    "semaine": "s10",
+    "po": "PO4550044030",
+    "duree": 433.0
+   },
+   {
+    "date": "2023-03-10",
+    "plateforme": "AGMP",
+    "semaine": "s10",
+    "po": "PO4550044128",
+    "duree": 433.0
+   },
+   {
+    "date": "2023-03-10",
+    "plateforme": "AGMP",
+    "semaine": "s10",
+    "po": "PO4550041088",
+    "duree": 433.0
+   },
+   {
+    "date": "2023-03-10",
+    "plateforme": "AGM PFC",
+    "semaine": "s10",
+    "po": "PO4550044128",
+    "duree": 433.0
+   },
+   {
+    "date": "2023-03-14",
+    "plateforme": "AGMP",
+    "semaine": "s11",
+    "po": "PO4550043920",
+    "duree": 437.0
+   },
+   {
+    "date": "2023-03-17",
+    "plateforme": "GAAM",
+    "semaine": "s11",
+    "po": "PO4550044031",
+    "duree": 440.0
+   },
+   {
+    "date": "2023-03-17",
+    "plateforme": "AGM",
+    "semaine": "s11",
+    "po": "PO4550044027",
+    "duree": 440.0
+   },
+   {
+    "date": "2023-03-31",
+    "plateforme": "AGMP",
+    "semaine": "s13",
+    "po": "PO4550043923",
+    "duree": 454.0
+   },
+   {
+    "date": "2023-04-07",
+    "plateforme": "AGMP",
+    "semaine": "s14",
+    "po": "PO4550044025",
+    "duree": 461.0
+   },
+   {
+    "date": "2023-04-10",
+    "plateforme": "AGMP",
+    "semaine": "s15",
+    "po": "PO4550044268",
+    "duree": 464.0
+   },
+   {
+    "date": "2023-04-10",
+    "plateforme": "GAAM",
+    "semaine": "s15",
+    "po": "PO4550044275",
+    "duree": 464.0
+   },
+   {
+    "date": "2023-04-11",
+    "plateforme": "AGMP",
+    "semaine": "s15",
+    "po": "PO4550044187",
+    "duree": 465.0
+   },
+   {
+    "date": "2023-04-11",
+    "plateforme": "AGM11",
+    "semaine": "s15",
+    "po": "PO4550043977",
+    "duree": 465.0
+   },
+   {
+    "date": "2023-04-14",
+    "plateforme": "GAAM",
+    "semaine": "s15",
+    "po": "PO4550044023",
+    "duree": 468.0
+   },
+   {
+    "date": "2023-04-15",
+    "plateforme": "AGM8",
+    "semaine": "s15",
+    "po": "PO4550044029",
+    "duree": 469.0
+   },
+   {
+    "date": "2023-04-15",
+    "plateforme": "GAAM",
+    "semaine": "s15",
+    "po": "PO4550044025",
+    "duree": 469.0
+   },
+   {
+    "date": "2023-04-15",
+    "plateforme": "AGM PFC",
+    "semaine": "s15",
+    "po": "PO4550044231",
+    "duree": 469.0
+   },
+   {
+    "date": "2023-04-16",
+    "plateforme": "AGMP",
+    "semaine": "s16",
+    "po": "PO4550044032",
+    "duree": 470.0
+   },
+   {
+    "date": "2023-04-17",
+    "plateforme": "AGMP",
+    "semaine": "s16",
+    "po": "PO4550044204",
+    "duree": 471.0
+   },
+   {
+    "date": "2023-04-18",
+    "plateforme": "AGM4",
+    "semaine": "s16",
+    "po": "PO4550044210",
+    "duree": 472.0
+   },
+   {
+    "date": "2023-04-19",
+    "plateforme": "AGMP",
+    "semaine": "s16",
+    "po": "PO4550044345",
+    "duree": 473.0
+   },
+   {
+    "date": "2023-04-21",
+    "plateforme": "AGM",
+    "semaine": "s16",
+    "po": "PO4550044059",
+    "duree": 475.0
+   },
+   {
+    "date": "2023-04-24",
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "po": "PO4550043966",
+    "duree": 478.0
+   },
+   {
+    "date": "2023-04-26",
+    "plateforme": "AGMC",
+    "semaine": "s17",
+    "po": "PO4550044344",
+    "duree": 480.0
+   },
+   {
+    "date": "2023-04-27",
+    "plateforme": "GAAM",
+    "semaine": "s17",
+    "po": "PO4550044205",
+    "duree": 481.0
+   },
+   {
+    "date": "2023-04-28",
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "po": "PO4550044230",
+    "duree": 482.0
+   },
+   {
+    "date": "2023-04-28",
+    "plateforme": "GAAM",
+    "semaine": "s17",
+    "po": "PO4550044230",
+    "duree": 482.0
+   },
+   {
+    "date": "2023-04-30",
+    "plateforme": "GAAM",
+    "semaine": "s18",
+    "po": "PO4550043955",
+    "duree": 484.0
+   },
+   {
+    "date": "2023-05-01",
+    "plateforme": "ASW",
+    "semaine": "s18",
+    "po": "PO4550043633",
+    "duree": 485.0
+   },
+   {
+    "date": "2023-05-06",
+    "plateforme": "AGM4/AGM5",
+    "semaine": "s18",
+    "po": "PO4550044229",
+    "duree": 490.0
+   },
+   {
+    "date": "2023-05-07",
+    "plateforme": "AGMP",
+    "semaine": "s19",
+    "po": "PO4550043802",
+    "duree": 491.0
+   },
+   {
+    "date": "2023-05-07",
+    "plateforme": "TRM PFK",
+    "semaine": "s19",
+    "po": "PO4550043802",
+    "duree": 491.0
+   },
+   {
+    "date": "2023-05-12",
+    "plateforme": "AGM8",
+    "semaine": "s19",
+    "po": "PO4550044054",
+    "duree": 496.0
+   },
+   {
+    "date": "2023-05-16",
+    "plateforme": "AGM",
+    "semaine": "s20",
+    "po": "PO4550044490",
+    "duree": 500.0
+   },
+   {
+    "date": "2023-05-17",
+    "plateforme": "AGM",
+    "semaine": "s20",
+    "po": "PO4550043888",
+    "duree": 501.0
+   },
+   {
+    "date": "2023-05-17",
+    "plateforme": "AGM",
+    "semaine": "s20",
+    "po": "PO4550044483",
+    "duree": 501.0
+   }
+  ],
+  "etaMaritime": [
+   {
+    "date": "sept 22",
+    "plateforme": "AGMP",
+    "semaine": "s40",
+    "po": "PO4550043489",
+    "duree": 270.0
+   },
+   {
+    "date": "sept 22",
+    "plateforme": "AGM15",
+    "semaine": "s40",
+    "po": "PO4550043489",
+    "duree": 270.0
+   },
+   {
+    "date": "sept 22",
+    "plateforme": "AGM PFC",
+    "semaine": "s40",
+    "po": "PO4550044061",
+    "duree": 271.0
+   },
+   {
+    "date": "déc 22",
+    "plateforme": "AGMP",
+    "semaine": "s50",
+    "po": "PO4550043644",
+    "duree": 341.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "AGM7",
+    "semaine": "s9",
+    "po": "PO4550043547",
+    "duree": 423.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "AGMP",
+    "semaine": "s9",
+    "po": "PO4550043547",
+    "duree": 423.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s12",
+    "po": "PO4550043473",
+    "duree": 443.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s12",
+    "po": "PO4550043902",
+    "duree": 443.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGM6",
+    "semaine": "s12",
+    "po": "PO4550043902",
+    "duree": 443.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "GAAM",
+    "semaine": "s12",
+    "po": "PO4550044269",
+    "duree": 448.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s13",
+    "po": "PO4550043946",
+    "duree": 451.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGM11",
+    "semaine": "s13",
+    "po": "PO4550043946",
+    "duree": 451.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "GAAM",
+    "semaine": "s15",
+    "po": "PO4550042951",
+    "duree": 464.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMN",
+    "semaine": "s15",
+    "po": "PO4550043992",
+    "duree": 468.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s15",
+    "po": "PO4550043992",
+    "duree": 468.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "GAAM",
+    "semaine": "s15",
+    "po": "PO4550043992",
+    "duree": 468.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGM PFC",
+    "semaine": "s15",
+    "po": "PO4550043992",
+    "duree": 468.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGM6",
+    "semaine": "s15",
+    "po": "PO4550043992",
+    "duree": 468.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGM",
+    "semaine": "s16",
+    "po": "PO4550044022",
+    "duree": 475.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "po": "PO4550044030",
+    "duree": 481.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "po": "PO4550044070",
+    "duree": 481.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "po": "PO4550044061",
+    "duree": 482.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "GAAM",
+    "semaine": "s18",
+    "po": "PO4550043973",
+    "duree": 486.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s18",
+    "po": "PO4550043498",
+    "duree": 488.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s19",
+    "po": "PO4550044188",
+    "duree": 492.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM",
+    "semaine": "s19",
+    "po": "PO4550043399",
+    "duree": 495.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s20",
+    "po": "PO4950030635",
+    "duree": 498.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s20",
+    "po": "PO4550043489",
+    "duree": 498.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "ASW",
+    "semaine": "s20",
+    "po": "PO4550043415",
+    "duree": 499.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMN",
+    "semaine": "s20",
+    "po": "PO4550044128",
+    "duree": 503.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s20",
+    "po": "PO4550044030",
+    "duree": 503.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s20",
+    "po": "PO4550044128",
+    "duree": 503.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s20",
+    "po": "PO4550041088",
+    "duree": 503.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM PFC",
+    "semaine": "s20",
+    "po": "PO4550044128",
+    "duree": 503.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s21",
+    "po": "PO4550043920",
+    "duree": 507.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "GAAM",
+    "semaine": "s21",
+    "po": "PO4550044031",
+    "duree": 510.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM",
+    "semaine": "s21",
+    "po": "PO4550044027",
+    "duree": 510.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": null,
+    "semaine": "s22",
+    "po": "DATE CRITIQUE",
+    "duree": 516.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGMP",
+    "semaine": "s23",
+    "po": "PO4550043923",
+    "duree": 524.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGMP",
+    "semaine": "s24",
+    "po": "PO4550044025",
+    "duree": 531.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGMP",
+    "semaine": "s25",
+    "po": "PO4550044268",
+    "duree": 534.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "GAAM",
+    "semaine": "s25",
+    "po": "PO4550044275",
+    "duree": 534.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGMP",
+    "semaine": "s25",
+    "po": "PO4550044187",
+    "duree": 535.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGM11",
+    "semaine": "s25",
+    "po": "PO4550043977",
+    "duree": 535.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "GAAM",
+    "semaine": "s25",
+    "po": "PO4550044023",
+    "duree": 538.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGM8",
+    "semaine": "s25",
+    "po": "PO4550044029",
+    "duree": 539.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "GAAM",
+    "semaine": "s25",
+    "po": "PO4550044025",
+    "duree": 539.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGM PFC",
+    "semaine": "s25",
+    "po": "PO4550044231",
+    "duree": 539.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGMP",
+    "semaine": "s26",
+    "po": "PO4550044032",
+    "duree": 540.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGMP",
+    "semaine": "s26",
+    "po": "PO4550044204",
+    "duree": 541.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGM4",
+    "semaine": "s26",
+    "po": "PO4550044210",
+    "duree": 542.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGMP",
+    "semaine": "s26",
+    "po": "PO4550044345",
+    "duree": 543.0
+   },
+   {
+    "date": "juin 23",
+    "plateforme": "AGM",
+    "semaine": "s26",
+    "po": "PO4550044059",
+    "duree": 545.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGMP",
+    "semaine": "s27",
+    "po": "PO4550043966",
+    "duree": 548.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGMC",
+    "semaine": "s27",
+    "po": "PO4550044344",
+    "duree": 550.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "GAAM",
+    "semaine": "s27",
+    "po": "PO4550044205",
+    "duree": 551.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGMP",
+    "semaine": "s27",
+    "po": "PO4550044230",
+    "duree": 552.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "GAAM",
+    "semaine": "s27",
+    "po": "PO4550044230",
+    "duree": 552.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "GAAM",
+    "semaine": "s28",
+    "po": "PO4550043955",
+    "duree": 554.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "ASW",
+    "semaine": "s28",
+    "po": "PO4550043633",
+    "duree": 555.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGM4/AGM5",
+    "semaine": "s28",
+    "po": "PO4550044229",
+    "duree": 560.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGMP",
+    "semaine": "s29",
+    "po": "PO4550043802",
+    "duree": 561.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "TRM PFK",
+    "semaine": "s29",
+    "po": "PO4550043802",
+    "duree": 561.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGM8",
+    "semaine": "s29",
+    "po": "PO4550044054",
+    "duree": 566.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGM",
+    "semaine": "s30",
+    "po": "PO4550044490",
+    "duree": 570.0
+   },
+   {
+    "date": "juil 23",
+    "plateforme": "AGM",
+    "semaine": "s30",
+    "po": "PO4550043888",
+    "duree": 571.0
+   }
+  ],
+  "etaAerien": [
+   {
+    "date": "août 22",
+    "plateforme": "AGMP",
+    "semaine": "s32",
+    "po": "PO4550043489",
+    "duree": 214.0
+   },
+   {
+    "date": "août 22",
+    "plateforme": "AGM15",
+    "semaine": "s32",
+    "po": "PO4550043489",
+    "duree": 214.0
+   },
+   {
+    "date": "août 22",
+    "plateforme": "AGM PFC",
+    "semaine": "s32",
+    "po": "PO4550044061",
+    "duree": 215.0
+   },
+   {
+    "date": "oct 22",
+    "plateforme": "AGMP",
+    "semaine": "s42",
+    "po": "PO4550043644",
+    "duree": 285.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "AGM7",
+    "semaine": "s1",
+    "po": "PO4550043547",
+    "duree": 367.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "AGMP",
+    "semaine": "s1",
+    "po": "PO4550043547",
+    "duree": 367.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "AGMP",
+    "semaine": "s4",
+    "po": "PO4550043473",
+    "duree": 387.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "AGMP",
+    "semaine": "s4",
+    "po": "PO4550043902",
+    "duree": 387.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "AGM6",
+    "semaine": "s4",
+    "po": "PO4550043902",
+    "duree": 387.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "GAAM",
+    "semaine": "s4",
+    "po": "PO4550044269",
+    "duree": 392.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "AGMP",
+    "semaine": "s5",
+    "po": "PO4550043946",
+    "duree": 395.0
+   },
+   {
+    "date": "janv 23",
+    "plateforme": "AGM11",
+    "semaine": "s5",
+    "po": "PO4550043946",
+    "duree": 395.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "GAAM",
+    "semaine": "s7",
+    "po": "PO4550042951",
+    "duree": 408.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "AGMN",
+    "semaine": "s7",
+    "po": "PO4550043992",
+    "duree": 412.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "AGMP",
+    "semaine": "s7",
+    "po": "PO4550043992",
+    "duree": 412.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "GAAM",
+    "semaine": "s7",
+    "po": "PO4550043992",
+    "duree": 412.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "AGM PFC",
+    "semaine": "s7",
+    "po": "PO4550043992",
+    "duree": 412.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "AGM6",
+    "semaine": "s7",
+    "po": "PO4550043992",
+    "duree": 412.0
+   },
+   {
+    "date": "févr 23",
+    "plateforme": "AGM",
+    "semaine": "s8",
+    "po": "PO4550044022",
+    "duree": 419.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s9",
+    "po": "PO4550044030",
+    "duree": 425.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s9",
+    "po": "PO4550044070",
+    "duree": 425.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s9",
+    "po": "PO4550044061",
+    "duree": 426.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "GAAM",
+    "semaine": "s10",
+    "po": "PO4550043973",
+    "duree": 430.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s10",
+    "po": "PO4550043498",
+    "duree": 432.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s11",
+    "po": "PO4550044188",
+    "duree": 436.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGM",
+    "semaine": "s11",
+    "po": "PO4550043399",
+    "duree": 439.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s12",
+    "po": "PO4950030635",
+    "duree": 442.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s12",
+    "po": "PO4550043489",
+    "duree": 442.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "ASW",
+    "semaine": "s12",
+    "po": "PO4550043415",
+    "duree": 443.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMN",
+    "semaine": "s12",
+    "po": "PO4550044128",
+    "duree": 447.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s12",
+    "po": "PO4550044030",
+    "duree": 447.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s12",
+    "po": "PO4550044128",
+    "duree": 447.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s12",
+    "po": "PO4550041088",
+    "duree": 447.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGM PFC",
+    "semaine": "s12",
+    "po": "PO4550044128",
+    "duree": 447.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGMP",
+    "semaine": "s13",
+    "po": "PO4550043920",
+    "duree": 451.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "GAAM",
+    "semaine": "s13",
+    "po": "PO4550044031",
+    "duree": 454.0
+   },
+   {
+    "date": "mars 23",
+    "plateforme": "AGM",
+    "semaine": "s13",
+    "po": "PO4550044027",
+    "duree": 454.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s15",
+    "po": "PO4550043923",
+    "duree": 468.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s16",
+    "po": "PO4550044025",
+    "duree": 475.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "po": "PO4550044268",
+    "duree": 478.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "GAAM",
+    "semaine": "s17",
+    "po": "PO4550044275",
+    "duree": 478.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "po": "PO4550044187",
+    "duree": 479.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGM11",
+    "semaine": "s17",
+    "po": "PO4550043977",
+    "duree": 479.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "GAAM",
+    "semaine": "s17",
+    "po": "PO4550044023",
+    "duree": 482.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGM8",
+    "semaine": "s17",
+    "po": "PO4550044029",
+    "duree": 483.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "GAAM",
+    "semaine": "s17",
+    "po": "PO4550044025",
+    "duree": 483.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGM PFC",
+    "semaine": "s17",
+    "po": "PO4550044231",
+    "duree": 483.0
+   },
+   {
+    "date": "avr 23",
+    "plateforme": "AGMP",
+    "semaine": "s18",
+    "po": "PO4550044032",
+    "duree": 484.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s18",
+    "po": "PO4550044204",
+    "duree": 485.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM4",
+    "semaine": "s18",
+    "po": "PO4550044210",
+    "duree": 486.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s18",
+    "po": "PO4550044345",
+    "duree": 487.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM",
+    "semaine": "s18",
+    "po": "PO4550044059",
+    "duree": 489.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s19",
+    "po": "PO4550043966",
+    "duree": 492.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMC",
+    "semaine": "s19",
+    "po": "PO4550044344",
+    "duree": 494.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "GAAM",
+    "semaine": "s19",
+    "po": "PO4550044205",
+    "duree": 495.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s19",
+    "po": "PO4550044230",
+    "duree": 496.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "GAAM",
+    "semaine": "s19",
+    "po": "PO4550044230",
+    "duree": 496.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "GAAM",
+    "semaine": "s20",
+    "po": "PO4550043955",
+    "duree": 498.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "ASW",
+    "semaine": "s20",
+    "po": "PO4550043633",
+    "duree": 499.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM4/AGM5",
+    "semaine": "s20",
+    "po": "PO4550044229",
+    "duree": 504.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGMP",
+    "semaine": "s21",
+    "po": "PO4550043802",
+    "duree": 505.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "TRM PFK",
+    "semaine": "s21",
+    "po": "PO4550043802",
+    "duree": 505.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM8",
+    "semaine": "s21",
+    "po": "PO4550044054",
+    "duree": 510.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM",
+    "semaine": "s22",
+    "po": "PO4550044490",
+    "duree": 514.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM",
+    "semaine": "s22",
+    "po": "PO4550043888",
+    "duree": 515.0
+   },
+   {
+    "date": "mai 23",
+    "plateforme": "AGM",
+    "semaine": "s22",
+    "po": "PO4550044483",
+    "duree": 515.0
+   }
+  ]
+ },
+ "ao": {
+  "statuts": {
+   "closed": 64,
+   "inProgress": 0
+  },
+  "limiteJours": 516,
+  "livraisonExw": [
+   {
+    "plateforme": "AGMP",
+    "semaine": "s50",
+    "periode": "2022-12-09",
+    "fournisseur": "TFE",
+    "duree": 342.0
+   },
+   {
+    "plateforme": "AGMP",
+    "semaine": "s5",
+    "periode": "2023-02-04",
+    "fournisseur": "CITBA",
+    "duree": 399.0
+   },
+   {
+    "plateforme": "AGM11",
+    "semaine": "s16",
+    "periode": "2023-04-18",
+    "fournisseur": "EPS",
+    "duree": 472.0
+   },
+   {
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "periode": "2023-04-24",
+    "fournisseur": "SRI",
+    "duree": 478.0
+   }
+  ],
+  "etaMaritime": [
+   {
+    "plateforme": "AGMP",
+    "semaine": "s50",
+    "periode": "2023-01-20",
+    "fournisseur": "TFE",
+    "duree": 384.0
+   },
+   {
+    "plateforme": "AGMP",
+    "semaine": "s5",
+    "periode": "2023-03-18",
+    "fournisseur": "CITBA",
+    "duree": 441.0
+   },
+   {
+    "plateforme": "AGM11",
+    "semaine": "s16",
+    "periode": "2023-05-30",
+    "fournisseur": "EPS",
+    "duree": 514.0
+   },
+   {
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "periode": "2023-06-05",
+    "fournisseur": "SRI",
+    "duree": 520.0
+   }
+  ],
+  "etaAerien": [
+   {
+    "plateforme": "AGMP",
+    "semaine": "s50",
+    "periode": "2022-12-09",
+    "fournisseur": "TFE",
+    "duree": 356.0
+   },
+   {
+    "plateforme": "AGMP",
+    "semaine": "s5",
+    "periode": "2023-02-04",
+    "fournisseur": "CITBA",
+    "duree": 413.0
+   },
+   {
+    "plateforme": "AGMP",
+    "semaine": "s17",
+    "periode": "2023-04-24",
+    "fournisseur": "SRI",
+    "duree": 492.0
+   }
+  ]
+ },
+ "surveillance": {
+  "jauges": [
+   {
+    "libelle": "FABRICATION",
+    "avancement": 0.936193,
+    "restant": 0.063807
+   },
+   {
+    "libelle": "AVIS MAD",
+    "avancement": 0.548582,
+    "restant": 0.451418
+   },
+   {
+    "libelle": "RECEPTION ETA POG",
+    "avancement": 0,
+    "restant": 1.0
+   },
+   {
+    "libelle": "EXPEDITION",
+    "avancement": 0.408801,
+    "restant": 0.591199
+   },
+   {
+    "libelle": "MAD Déf",
+    "avancement": 0.535805,
+    "restant": 0.464195
+   },
+   {
+    "libelle": "Avancement prévisionnel",
+    "avancement": 0.90511,
+    "restant": 0.09489
+   },
+   {
+    "libelle": "GLOBAL",
+    "avancement": 0.473394,
+    "restant": 0.526606
+   },
+   {
+    "libelle": "FAT",
+    "avancement": 0.625,
+    "restant": 0.375
+   }
+  ],
+  "etaLbv": {
+   "recu": 0.376221,
+   "nonRecu": 0.623779
+  },
+  "etaPog": {
+   "recu": 0.369846,
+   "nonRecu": 0.630154
+  },
+  "limiteJours": 516,
+  "histoEtaAerien": [
+   {
+    "mois": "mai 22",
+    "semaine": "22",
+    "po": "4550043802",
+    "duree": 144.0
+   },
+   {
+    "mois": "nov 22",
+    "semaine": "48",
+    "po": "4550043498",
+    "duree": 326.0
+   },
+   {
+    "mois": "janv 23",
+    "semaine": "5",
+    "po": "4550043946",
+    "duree": 395.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "7",
+    "po": "4550042951",
+    "duree": 408.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "9",
+    "po": "4550044070",
+    "duree": 425.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "9",
+    "po": "4550044061",
+    "duree": 426.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550044022",
+    "duree": 433.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550044029",
+    "duree": 433.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044025",
+    "duree": 437.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044029",
+    "duree": 437.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044030",
+    "duree": 437.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044031",
+    "duree": 440.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044025",
+    "duree": 445.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044029",
+    "duree": 445.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044061",
+    "duree": 445.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550043923",
+    "duree": 446.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044031",
+    "duree": 446.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044031",
+    "duree": 450.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550043920",
+    "duree": 451.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044345",
+    "duree": 452.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044025",
+    "duree": 454.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044027",
+    "duree": 454.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044030",
+    "duree": 454.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044031",
+    "duree": 454.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044205",
+    "duree": 457.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044022",
+    "duree": 459.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550043992",
+    "duree": 460.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044025",
+    "duree": 460.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044027",
+    "duree": 460.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044231",
+    "duree": 461.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044344",
+    "duree": 464.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044030",
+    "duree": 466.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044231",
+    "duree": 468.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044210",
+    "duree": 471.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044061",
+    "duree": 472.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044275",
+    "duree": 472.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044268",
+    "duree": 478.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044269",
+    "duree": 478.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550043977",
+    "duree": 479.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044029",
+    "duree": 479.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044187",
+    "duree": 479.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044031",
+    "duree": 480.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044023",
+    "duree": 482.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044030",
+    "duree": 482.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044032",
+    "duree": 482.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044025",
+    "duree": 483.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044029",
+    "duree": 483.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044061",
+    "duree": 483.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044231",
+    "duree": 483.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044210",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044345",
+    "duree": 489.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550043966",
+    "duree": 492.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044210",
+    "duree": 493.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044344",
+    "duree": 494.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044025",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044032",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044344",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044061",
+    "duree": 496.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044128",
+    "duree": 496.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044230",
+    "duree": 496.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550043955",
+    "duree": 498.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044059",
+    "duree": 500.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044061",
+    "duree": 500.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044204",
+    "duree": 500.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044205",
+    "duree": 500.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044231",
+    "duree": 500.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044025",
+    "duree": 501.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044231",
+    "duree": 501.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4950030635",
+    "duree": 501.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044344",
+    "duree": 502.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044229",
+    "duree": 504.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044061",
+    "duree": 507.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044025",
+    "duree": 509.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044061",
+    "duree": 509.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044204",
+    "duree": 509.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044205",
+    "duree": 509.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044025",
+    "duree": 510.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044054",
+    "duree": 510.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044204",
+    "duree": 510.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "22",
+    "po": "4550044490",
+    "duree": 514.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "22",
+    "po": "4550043888",
+    "duree": 515.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "22",
+    "po": "4550044483",
+    "duree": 515.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "22",
+    "po": "DATE CRITIQUE",
+    "duree": 516.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "22",
+    "po": "4550043923",
+    "duree": 517.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "22",
+    "po": "4550044201",
+    "duree": 517.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "23",
+    "po": "4550044315",
+    "duree": 521.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "23",
+    "po": "4550043983",
+    "duree": 522.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "23",
+    "po": "4550044574",
+    "duree": 522.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "25",
+    "po": "4550043923",
+    "duree": 537.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "25",
+    "po": "4550044025",
+    "duree": 537.0
+   },
+   {
+    "mois": "août 23",
+    "semaine": "31",
+    "po": "4550043557",
+    "duree": 580.0
+   }
+  ],
+  "histoEtaMaritime": [
+   {
+    "mois": "oct 22",
+    "semaine": "41",
+    "po": "4550043415",
+    "duree": 280.0
+   },
+   {
+    "mois": "oct 22",
+    "semaine": "44",
+    "po": "4550043489",
+    "duree": 300.0
+   },
+   {
+    "mois": "déc 22",
+    "semaine": "50",
+    "po": "4550043644",
+    "duree": 341.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "8",
+    "po": "4550043547",
+    "duree": 415.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "9",
+    "po": "4550043547",
+    "duree": 423.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550043902",
+    "duree": 443.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550043489",
+    "duree": 480.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550043973",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550043399",
+    "duree": 492.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550043473",
+    "duree": 501.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550041088",
+    "duree": 510.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "22",
+    "po": "4550044188",
+    "duree": 513.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "22",
+    "po": "DATE CRITIQUE",
+    "duree": 516.0
+   }
+  ],
+  "histoMadReelle": [
+   {
+    "mois": "mai 22",
+    "semaine": "20",
+    "po": "4550043802",
+    "duree": 130.0
+   },
+   {
+    "mois": "juil 22",
+    "semaine": "31",
+    "po": "4550043415",
+    "duree": 210.0
+   },
+   {
+    "mois": "août 22",
+    "semaine": "34",
+    "po": "4550043489",
+    "duree": 230.0
+   },
+   {
+    "mois": "sept 22",
+    "semaine": "40",
+    "po": "4550043644",
+    "duree": 271.0
+   },
+   {
+    "mois": "nov 22",
+    "semaine": "46",
+    "po": "4550043498",
+    "duree": 312.0
+   },
+   {
+    "mois": "déc 22",
+    "semaine": "51",
+    "po": "4550043547",
+    "duree": 345.0
+   },
+   {
+    "mois": "déc 22",
+    "semaine": "52",
+    "po": "4550043547",
+    "duree": 353.0
+   },
+   {
+    "mois": "janv 23",
+    "semaine": "2",
+    "po": "4550043902",
+    "duree": 373.0
+   },
+   {
+    "mois": "janv 23",
+    "semaine": "3",
+    "po": "4550043946",
+    "duree": 381.0
+   },
+   {
+    "mois": "janv 23",
+    "semaine": "5",
+    "po": "4550042951",
+    "duree": 394.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "7",
+    "po": "4550043489",
+    "duree": 410.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "7",
+    "po": "4550044070",
+    "duree": 411.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "7",
+    "po": "4550044061",
+    "duree": 412.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "8",
+    "po": "4550043973",
+    "duree": 416.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "8",
+    "po": "4550044022",
+    "duree": 419.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "8",
+    "po": "4550044029",
+    "duree": 419.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "9",
+    "po": "4550043399",
+    "duree": 422.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "9",
+    "po": "4550044025",
+    "duree": 423.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "9",
+    "po": "4550044029",
+    "duree": 423.0
+   },
+   {
+    "mois": "févr 23",
+    "semaine": "9",
+    "po": "4550044030",
+    "duree": 423.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "9",
+    "po": "4550044031",
+    "duree": 426.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550043473",
+    "duree": 431.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550044025",
+    "duree": 431.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550044029",
+    "duree": 431.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550044061",
+    "duree": 431.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550043923",
+    "duree": 432.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "10",
+    "po": "4550044031",
+    "duree": 432.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044031",
+    "duree": 436.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550043920",
+    "duree": 437.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044345",
+    "duree": 438.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550041088",
+    "duree": 440.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044025",
+    "duree": 440.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044027",
+    "duree": 440.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044030",
+    "duree": 440.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "11",
+    "po": "4550044031",
+    "duree": 440.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044188",
+    "duree": 443.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044205",
+    "duree": 443.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044022",
+    "duree": 445.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550043992",
+    "duree": 446.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044025",
+    "duree": 446.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044027",
+    "duree": 446.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044231",
+    "duree": 447.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044344",
+    "duree": 450.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044030",
+    "duree": 452.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044231",
+    "duree": 454.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044210",
+    "duree": 457.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044061",
+    "duree": 458.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044275",
+    "duree": 458.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044268",
+    "duree": 464.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044269",
+    "duree": 464.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550043977",
+    "duree": 465.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044029",
+    "duree": 465.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044187",
+    "duree": 465.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044031",
+    "duree": 466.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044023",
+    "duree": 468.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044030",
+    "duree": 468.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044032",
+    "duree": 468.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044025",
+    "duree": 469.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044029",
+    "duree": 469.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044061",
+    "duree": 469.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044231",
+    "duree": 469.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044210",
+    "duree": 472.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044345",
+    "duree": 475.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550043966",
+    "duree": 478.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044210",
+    "duree": 479.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044344",
+    "duree": 480.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044025",
+    "duree": 481.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044032",
+    "duree": 481.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044344",
+    "duree": 481.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044061",
+    "duree": 482.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044128",
+    "duree": 482.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044230",
+    "duree": 482.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "18",
+    "po": "4550043955",
+    "duree": 484.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044059",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044061",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044204",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044205",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044231",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044025",
+    "duree": 487.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044231",
+    "duree": 487.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4950030635",
+    "duree": 487.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044344",
+    "duree": 488.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044229",
+    "duree": 490.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044061",
+    "duree": 493.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044025",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044061",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044204",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044205",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044025",
+    "duree": 496.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044054",
+    "duree": 496.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044204",
+    "duree": 496.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044490",
+    "duree": 500.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550043888",
+    "duree": 501.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044483",
+    "duree": 501.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550043923",
+    "duree": 503.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "20",
+    "po": "4550044201",
+    "duree": 503.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044315",
+    "duree": 507.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550043983",
+    "duree": 508.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "21",
+    "po": "4550044574",
+    "duree": 508.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "22",
+    "po": "DATE CRITIQUE",
+    "duree": 516.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "23",
+    "po": "4550043923",
+    "duree": 523.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "23",
+    "po": "4550044025",
+    "duree": 523.0
+   },
+   {
+    "mois": "juil 23",
+    "semaine": "29",
+    "po": "4550043557",
+    "duree": 566.0
+   }
+  ]
+ },
+ "transit": {
+  "limiteJours": 516,
+  "histoEtaLbvAerien": [
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044025",
+    "duree": 454.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550043992",
+    "duree": 460.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550043946",
+    "duree": 476.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044031",
+    "duree": 476.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044025",
+    "duree": 490.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044030",
+    "duree": 490.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044345",
+    "duree": 490.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044023",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044032",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4950030635",
+    "duree": 495.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044029",
+    "duree": 497.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044128",
+    "duree": 497.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044344",
+    "duree": 497.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "22",
+    "po": "DATE CRITIQUE",
+    "duree": 516.0
+   }
+  ],
+  "histoEtaPogAerien": [
+   {
+    "mois": null,
+    "semaine": "0",
+    "po": "4550044031",
+    "duree": 0.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550042951",
+    "duree": 443.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "12",
+    "po": "4550044025",
+    "duree": 443.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550043923",
+    "duree": 450.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044031",
+    "duree": 450.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044031",
+    "duree": 452.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044029",
+    "duree": 453.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044031",
+    "duree": 453.0
+   },
+   {
+    "mois": "mars 23",
+    "semaine": "13",
+    "po": "4550044061",
+    "duree": 454.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044022",
+    "duree": 458.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044022",
+    "duree": 459.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044025",
+    "duree": 459.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044029",
+    "duree": 459.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044030",
+    "duree": 459.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "14",
+    "po": "4550044031",
+    "duree": 461.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044022",
+    "duree": 465.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "15",
+    "po": "4550044025",
+    "duree": 465.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044025",
+    "duree": 474.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044029",
+    "duree": 474.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044210",
+    "duree": 475.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044231",
+    "duree": 475.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "16",
+    "po": "4550044344",
+    "duree": 475.0
+   },
+   {
+    "mois": "avr 23",
+    "semaine": "17",
+    "po": "4550044029",
+    "duree": 482.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044030",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044061",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044275",
+    "duree": 486.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "18",
+    "po": "4550044027",
+    "duree": 488.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044205",
+    "duree": 492.0
+   },
+   {
+    "mois": "mai 23",
+    "semaine": "19",
+    "po": "4550044345",
+    "duree": 492.0
+   },
+   {
+    "mois": "juin 23",
+    "semaine": "22",
+    "po": "DATE CRITIQUE",
+    "duree": 516.0
+   }
+  ]
+ }
+}
