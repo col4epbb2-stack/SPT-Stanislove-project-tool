@@ -1,0 +1,1 @@
+Parcours doc/<FICHIER>. Mets tout ce qu'il demande dans un fichier doc/recueil-module-<MODULE>.md : récupère tous les points listés tels qu'ils sont présents, sans les reformuler ni les regrouper, avec l'état réel de l'application en face de chacun. Ajoute un plan d'implémentation en lots. N'implémente rien à cette étape.

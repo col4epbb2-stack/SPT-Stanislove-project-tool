@@ -1,0 +1,565 @@
+rules_version = '2';
+
+// Règles Firestore pour les collections ICP du projet driver-6ae2b (projet
+// Firebase PARTAGÉ avec les apps "driver", cf. CLAUDE.md — ce fichier ne doit
+// matcher QUE les chemins ci-dessous, jamais un `match /{document=**}`
+// général, pour ne pas toucher aux règles des autres apps qui cohabitent
+// dans la même base). Remplace l'autorisation qui vivait dans l'ex-API
+// NestJS (AuthGuard + @Roles, abandonnée le 22/07/2026) : le rôle
+// admin/agent est lu depuis `utilisateurs/{uid}.role` (plus de custom claim
+// possible sans backend pour les poser).
+//
+// DÉPLOIEMENT — `firebase deploy --only firestore:rules` publie **tout ce
+// fichier d'un coup**, jamais une règle isolée : c'est pour ça que les règles
+// ajoutées ici au fil des modules attendaient toutes le même geste.
+// Dernier déploiement confirmé sur `driver-6ae2b` : **04/09/2026** (demande
+// explicite de l'utilisateur, « ignore la nouvelle config webicp », .firebaserc
+// remis sur driver-6ae2b avant le déploiement). Toutes les règles présentes à
+// cette date sont donc en production, y compris `tonnage_echaf_parametres` et
+// `tonnage_echaf_rapports` (03/09/2026, lots 1 et 3 du recueil Tonnage rev01),
+// qui restaient en attente depuis le déploiement précédent du 27/08/2026.
+// Toute règle ajoutée APRÈS cette date est à nouveau en attente, et doit être
+// signalée comme telle.
+//
+// DEUX INSTANCES DEPUIS LE 04/09/2026 (« distinguer les instances ») —
+// l'historique de déploiement ci-dessus (27/08/2026…) ne vaut que pour
+// `driver-6ae2b`, l'instance de la branche `main` (pré-prod), qui reste
+// partagée avec les apps "driver" : les précautions ci-dessus (jamais de
+// `match /{document=**}` général, vérifier les règles en place avant un
+// premier déploiement) y restent impératives. La branche `prod` (celle-ci)
+// déploie ce même fichier sur `webicp`, une instance **dédiée** à cette
+// application (aucune autre app à ménager) dont la base Firestore est
+// volontairement vide au déploiement — son propre historique de déploiement
+// de règles est encore à écrire ici une fois le premier
+// `firebase deploy --only firestore:rules` confirmé sur ce projet.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function connecte() {
+      return request.auth != null;
+    }
+
+    function role() {
+      return get(/databases/$(database)/documents/utilisateurs/$(request.auth.uid)).data.role;
+    }
+
+    function estAdmin() {
+      return connecte() && role() == 'admin';
+    }
+
+    // Profil de visa des révisions navette (11/08/2026) : champ à part du
+    // rôle applicatif, cf. types/user.ts. Absent sur la plupart des comptes.
+    function profilNavette() {
+      return get(/databases/$(database)/documents/utilisateurs/$(request.auth.uid)).data.get('profilNavette', '');
+    }
+
+    function viseNavette() {
+      return connecte() && (profilNavette() == 'chef_departement' || profilNavette() == 'directeur_technique');
+    }
+
+    // Annuaire : chacun peut lire (affichage), lire son propre profil pour
+    // le rôle. Écriture ouverte aux admins depuis le 26/07/2026 (écran de
+    // création d'utilisateurs, AgentsPage) — le doc utilisateurs/{uid} est
+    // créé côté client juste après la création du compte Firebase Auth
+    // correspondant (même uid).
+    //
+    // Suppression ouverte aux admins le 20/08/2026 (CRUD de l'écran Agents).
+    // Elle retire l'accès à l'application — une session sans fiche
+    // d'annuaire est refusée par AuthContext — mais ne supprime pas le
+    // compte Firebase Auth, ce qu'aucun client ne peut faire pour un tiers.
+    // L'écran l'annonce avant de confirmer, et transfère au préalable les
+    // fiches projet du compte retiré.
+    match /utilisateurs/{uid} {
+      allow read: if connecte();
+      allow create: if estAdmin();
+      allow update: if estAdmin();
+      allow delete: if estAdmin();
+    }
+
+    // Référentiels : lecture ouverte aux utilisateurs connectés, écriture
+    // réservée aux admins (pas d'écran d'édition aujourd'hui, mais cohérent
+    // avec le reste du modèle de permissions).
+    match /champs/{code} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+    match /fournisseurs/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+    match /services/{code} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+    match /alias_projets/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Fiches projet : ProjectsContext persiste désormais réellement (audit
+    // CDS, 26/07/2026) — écriture ouverte à tout utilisateur connecté, comme
+    // lignes_navette/contrats (aucune règle de ce fichier ne fait de
+    // contrôle d'ownership ; un chargé de projet non-admin doit pouvoir
+    // saisir hypothèses/HSE/standby/planning sur ses propres fiches).
+    match /projets/{id} {
+      allow read: if connecte();
+      allow create: if connecte();
+      allow update: if connecte();
+      // Suppression définitive d'une fiche (04/09/2026, demande explicite),
+      // réservée aux admins — une fiche est référencée par une dizaine
+      // d'autres collections (navette, feuille de route, journaux terrain…),
+      // détachées par l'application avant l'écriture de cette suppression
+      // (cf. lib/projectsSuppression.ts). PAS ENCORE DÉPLOYÉE.
+      allow delete: if estAdmin();
+    }
+
+    // Navette : création ouverte à tout utilisateur connecté (comme
+    // l'ex-API, pas de restriction de rôle) ; lier une ligne à un projet
+    // réservé aux admins.
+    match /lignes_navette/{id} {
+      allow read: if connecte();
+      allow create: if connecte();
+      allow update: if estAdmin();
+      // Suppression définitive d'une ligne (04/09/2026, demande explicite),
+      // réservée aux admins comme la modification — PAS ENCORE DÉPLOYÉE.
+      allow delete: if estAdmin();
+    }
+
+    // Arbitrages (révisions budgétaires trimestrielles) : proposer une
+    // révision ouvert à tout utilisateur connecté (comme lignes_navette,
+    // pas de check d'ownership dans les règles — le scoping se fait déjà
+    // côté front) ; valider/rejeter réservé aux admins.
+    // Révisions : proposées par tout connecté, visées par le chef de
+    // département puis le directeur technique (11/08/2026). L'admin garde
+    // l'écriture — il supplée un profil non encore désigné et pose les
+    // révisions correctrices (reviserCorrectif). L'enchaînement des deux
+    // visas et l'interdiction de viser deux fois la même révision restent
+    // vérifiés côté application (NavetteContext.viserArbitrage) : les règles
+    // ne font que borner qui a le droit d'écrire.
+    match /arbitrages_navette/{id} {
+      allow read: if connecte();
+      allow create: if connecte();
+      allow update: if estAdmin() || viseNavette();
+      allow delete: if false;
+    }
+
+    // Réglages navette globaux (ex. CP manuel) : lecture pour tous,
+    // écriture réservée aux admins.
+    match /parametres_navette/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Feuille de route : lecture ouverte. Écriture réservée aux admins —
+    // synchroniserDepuisNavette() (déclenché en liant une ligne navette à un
+    // projet) est la seule écriture Firestore réelle de ce module ; cohérent
+    // avec lignes_navette où lier à un projet est déjà admin-only.
+    match /feuille_de_route/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Contrats portfolio : création/consommation manuelle ouvertes à tout
+    // utilisateur connecté (comme l'ex-API).
+    match /contrats/{id} {
+      allow read: if connecte();
+      allow create: if connecte();
+      allow update: if connecte();
+      // Suppression réservée aux admins (04/09/2026, demande explicite) —
+      // même régime que `lignes_navette`. AJOUTÉE LOCALEMENT, PAS ENCORE
+      // DÉPLOYÉE : sans déploiement, le bouton « Supprimer » de l'écran
+      // Contrats échoue avec une erreur de permission (affichée dans sa
+      // modale de confirmation), il ne se comporte pas en silence.
+      allow delete: if estAdmin();
+
+      match /consommations/{entreeId} {
+        allow read: if connecte();
+        allow write: if connecte();
+      }
+
+      // Augmentations de valeur cible (doc/module contrat.docx §2) :
+      // **création seule**, ni update ni delete — pas même pour un admin.
+      // La valeur cible actuelle se déduit de cette suite (initiale + AVC) :
+      // une augmentation réécrite après coup changerait un budget déjà
+      // arbitré sans laisser de trace. Même régime que `epcm_historique`.
+      match /avc/{avcId} {
+        allow read: if connecte();
+        allow create: if connecte();
+        allow update, delete: if false;
+      }
+    }
+
+    // Commandes (PO) — collection autonome depuis le 25/08/2026 (doc/module
+    // contrat.docx §3 : les contrats de topographie et d'EPCM suivent leurs
+    // commandes et leurs factures sans fiche projet). Même régime que les
+    // fiches projet, dont elles sortent : tout utilisateur connecté (un
+    // chargé d'affaires doit pouvoir saisir les commandes de ses contrats).
+    match /commandes/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+
+      // Augmentations du montant d'une commande (doc §2 et §4) : **création
+      // seule**, comme les AVC d'un contrat. Le montant actuel se déduit de
+      // cette suite — une augmentation réécrite après coup changerait un
+      // engagement déjà passé sans laisser de trace.
+      match /augmentations/{augmentationId} {
+        allow read: if connecte();
+        allow create: if connecte();
+        allow update, delete: if false;
+      }
+    }
+
+    // Registre des liaisons manuelles : lecture pour tous, confirmation et
+    // suppression réservées aux admins (comme l'ex-API).
+    match /liaisons/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Journaux et blobs de référence : lecture seule, jamais écrits par le
+    // client (import via scripts).
+    match /affaires_metal/{id} {
+      allow read: if connecte();
+      allow write: if false;
+    }
+    match /journal_tonnage/{id} {
+      allow read: if connecte();
+      allow write: if false;
+    }
+    match /personnel_tonnage/{id} {
+      allow read: if connecte();
+      allow write: if false;
+    }
+    match /journal_peinture/{id} {
+      allow read: if connecte();
+      allow write: if false;
+    }
+    match /surveillance_procurement/{id} {
+      allow read: if connecte();
+      allow write: if false;
+    }
+    match /activites_facturation/{id} {
+      allow read: if connecte();
+      allow write: if false;
+    }
+    match /donnees_referentiels/{cle} {
+      allow read: if connecte();
+      allow write: if false;
+    }
+
+    // Suivi hebdo CRJ — saisie journalière (pilote "Personnel sur site",
+    // 29/07/2026). Contrairement au blob hebdo-crj__personnel-site ci-dessus
+    // (donnees_referentiels, verrouillé), les entrées saisies depuis l'app
+    // vivent dans cette collection dédiée, une ligne = un document. Écriture
+    // ouverte à tout utilisateur connecté, comme lignes_navette/contrats —
+    // pas de check d'ownership, le compte rendu journalier est rédigé par
+    // n'importe quel agent de terrain.
+    match /hebdo_crj_personnel_site/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Suite du même pilote, généralisée aux autres sections saisissables du
+    // rapport journalier (29/07/2026) — mêmes principes que ci-dessus.
+    match /hebdo_crj_journal/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /hebdo_crj_hse_journalier/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /hebdo_crj_personnel_mobilise/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /hebdo_crj_materiel_site/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /hebdo_crj_defaut_planning/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /hebdo_crj_images/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Événements HSE d'une affaire, par société et par scope (23/08/2026,
+    // doc/commentaires CRJ_rev02.docx) — même régime que les autres lignes de
+    // saisie du CRJ : tout utilisateur connecté renseigne le rapport du jour.
+    // **Déployée le 27/08/2026**, avec l'ensemble du fichier.
+    // partagé : sans déploiement, la lecture renvoie vide et l'écriture est
+    // refusée (l'erreur s'affiche en tête de page).
+    match /hebdo_crj_hse_evenements/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Grille de tarifs NPT (03/08/2026) : lecture pour tous (affichage du
+    // coût standby dans le rapport), écriture réservée aux admins — c'est
+    // une donnée financière de configuration, pas une saisie de terrain,
+    // cohérent avec parametres_navette ci-dessus. Règle ajoutée ici,
+    // Déployée le 27/08/2026 (voir en tête de fichier). Anciennement : sur
+    // le projet Firebase partagé driver-6ae2b — `firebase deploy --only
+    // firestore:rules` reste à confirmer explicitement, cf. CLAUDE.md).
+    match /hebdo_crj_tarifs_npt/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Saisie Tonnage échafaudage (04/08/2026, doc/suivi tonnage.docx) — même
+    // principe que hebdo_crj_* : les lignes historiques importées
+    // (journal_tonnage/activites_facturation ci-dessus) restent verrouillées
+    // en écriture, les nouvelles saisies vivent ici. **Déployées le
+    // 27/08/2026** avec l'ensemble du fichier.
+    match /tonnage_echaf_journal_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /tonnage_echaf_activites_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /tonnage_echaf_personnel_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Paramètres métier du contrat Échafaudage (03/09/2026, doc/Suivi tonnage
+    // rev01.docx §A9 : « L'utilisateur doit pouvoir modifier l'objectif de
+    // production sans modifier les règles de calcul ») — un document unique
+    // `contrat` : unité et objectif journalier par champ, équipe de référence,
+    // coefficients par profil, forfaits matériel et Core crew, société
+    // exécutante par défaut, causes de stand-by, heures incompressibles.
+    // Même régime que les autres référentiels de configuration
+    // (peinture_parametres, devises, listes_valeurs, hebdo_crj_tarifs_npt) :
+    // tout connecté lit — les menus de saisie et les objectifs de production
+    // en dépendront —, seul un admin écrit.
+    // ⚠️ AJOUTÉE APRÈS LE DÉPLOIEMENT DU 27/08/2026 — **pas encore déployée**.
+    // Sans déploiement, la lecture échoue (incident signalé) et l'écran
+    // retombe sur les valeurs des blobs importés du classeur ; l'écriture est
+    // refusée et l'erreur s'affiche sous le bouton Enregistrer.
+    match /tonnage_echaf_parametres/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Rapport journalier (03/09/2026, doc/Suivi tonnage rev01.docx §C) — un
+    // document par (date, champ) : rédacteur et société exécutante du jour.
+    // Ne porte ni demande ni pointage, qui restent dans leurs collections
+    // propres (tonnage_echaf_journal_saisie, tonnage_echaf_personnel_saisie,
+    // déjà couvertes) — même régime que peinture_rapports.
+    // ⚠️ AJOUTÉE APRÈS LE DÉPLOIEMENT DU 27/08/2026 — **pas encore déployée**.
+    match /tonnage_echaf_rapports/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Saisie Travaux METAL (06/08/2026), même principe : affaires_metal
+    // (importé) reste verrouillé en écriture, les saisies vivent ici.
+    match /affaires_metal_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    // Saisie Procurement follow-up (06/08/2026), même principe : les journaux
+    // importés (blobs donnees_referentiels + surveillance_procurement)
+    // restent verrouillés en écriture, les saisies vivent ici.
+    match /procurement_da_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /procurement_ao_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /procurement_po_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /procurement_surveillance_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /procurement_prefa_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    // Saisie Contrat peinture (06/08/2026) : journal_peinture (importé) reste
+    // verrouillé en écriture, les pointages saisis vivent ici.
+    match /peinture_journal_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Saisie du Journal Grand arrêt (07/08/2026), même principe : le blob
+    // `grand-arret__journal` (donnees_referentiels) reste verrouillé, les
+    // lignes saisies ou corrigées vivent ici.
+    match /grand_arret_journal_saisie/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Module « Courbes en S » (13/08/2026). Les 3 feuilles d'activités du
+    // classeur sont livrées avec le module (src/data/courbeEnS/activites.ts,
+    // 59 lignes par vue) et non importées en base : seules les activités
+    // saisies ou corrigées depuis l'app vivent ici.
+    match /courbe_en_s_activites/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Contenu des pièces jointes en base 64 (14/08/2026) — Firebase Storage
+    // exige le plan payant Blaze sur ce projet, les fichiers passent donc par
+    // Firestore. Un document par pièce, lu à la demande.
+    //
+    // La suppression est ouverte à tout connecté, comme la création : les
+    // métadonnées qui référencent la pièce vivent dans la fiche projet ou la
+    // ligne CRJ, elles-mêmes modifiables par tout connecté — restreindre ici
+    // sans restreindre là ne protégerait rien, et laisserait des contenus
+    // orphelins facturés.
+    match /pieces_jointes_contenu/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+
+    // Module Contrat EPCM (08/08/2026) — personnel, planning, pointage,
+    // rotations et contrat forfaitaire. Écriture ouverte à tout utilisateur
+    // connecté comme le reste des modules de saisie ; le filtrage par profil
+    // EPCM (§13 : responsable contrat, RH, consultation…) se fait côté UI,
+    // ces règles ne le rejouent pas (il faudrait une lecture croisée du doc
+    // de profil à chaque écriture, coûteuse et facile à désynchroniser).
+    match /epcm_employes/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /epcm_planning/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /epcm_pointages/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /epcm_rotations/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    // Contrat et budget : lecture pour tous, écriture réservée aux admins —
+    // c'est la donnée financière du module, comme parametres_navette ou
+    // hebdo_crj_tarifs_npt.
+    // Relevés HSE hebdomadaires du contrat EPCM (doc/EPCM.docx §8) — même
+    // régime que le reste du module : tout utilisateur connecté. Le contrôle
+    // fin passe par les profils EPCM, qui filtrent l'interface (limite déjà
+    // assumée pour ce module).
+    match /epcm_hse/{id} {
+      allow read: if connecte();
+      allow write: if connecte();
+    }
+    match /epcm_contrats/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+    // Profils d'accès du module : décidés par les admins de l'app.
+    match /epcm_profils/{uid} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+    // Journal d'audit : ajout seulement. Ni modification ni suppression, pas
+    // même par un admin — une trace réécrite ne prouve plus rien.
+    match /epcm_historique/{id} {
+      allow read: if connecte();
+      allow create: if connecte();
+      allow update: if false;
+      allow delete: if false;
+    }
+
+    // Discussions entre utilisateurs (07/08/2026) — premier module non
+    // métier de l'app : de la conversation, pas de la donnée de gestion.
+    // Un sujet est lisible par tout utilisateur connecté (espace commun, pas
+    // de messagerie privée ici — ne rien y écrire de confidentiel).
+    // - créer : n'importe qui, mais seulement en son propre nom (auteurId ==
+    //   uid), sinon un utilisateur pourrait signer un sujet d'un collègue ;
+    // - modifier : ouvert à tout connecté, parce que l'aperçu dénormalisé du
+    //   dernier message (dernierMessageLe/Extrait/nombreMessages) est écrit
+    //   sur le sujet par celui qui poste, pas par son auteur ; clôturer/
+    //   rouvrir passe par la même règle (l'UI le réserve à l'auteur et aux
+    //   admins, cf. pages/DiscussionsPage.tsx) ;
+    // - supprimer : admins uniquement — un sujet tranché se clôture.
+    match /discussions_sujets/{sujetId} {
+      allow read: if connecte();
+      allow create: if connecte() && request.resource.data.auteurId == request.auth.uid;
+      allow update: if connecte();
+      allow delete: if estAdmin();
+
+      // Messages du fil. Écrire sous le nom d'un autre est refusé côté
+      // règles (pas seulement côté UI) ; un message se supprime par son
+      // auteur ou un admin, et ne se modifie pas (pas de réécriture
+      // silencieuse d'un échange déjà lu par les autres).
+      match /messages/{messageId} {
+        allow read: if connecte();
+        allow create: if connecte() && request.resource.data.auteurId == request.auth.uid;
+        allow update: if false;
+        allow delete: if connecte() && (resource.data.auteurId == request.auth.uid || estAdmin());
+      }
+    }
+
+    // Référentiel des devises (18/08/2026) — un document par code ISO.
+    // Lecture ouverte à tout connecté : les taux servent à convertir les
+    // montants dans toute l'application, un chargé d'affaires doit pouvoir
+    // savoir à quel taux le sien a été converti. Écriture réservée aux
+    // admins, comme les autres référentiels de configuration (champs,
+    // services, paramètres navette) : un taux est structurant, il change la
+    // valeur de tout ce qui est agrégé.
+    match /devises/{code} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Listes de valeurs proposées dans les menus de saisie (18/08/2026) — un
+    // document par liste du catalogue (types/listeValeur.ts). Même régime que
+    // les devises et les autres référentiels de configuration : tout connecté
+    // lit (les menus de saisie en dépendent, dans tous les modules), seul un
+    // admin écrit.
+    match /listes_valeurs/{liste} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Paramètres métier du contrat peinture (27/08/2026, doc/Contrat
+    // peinture.docx §11) — un document unique `contrat` : modèle de
+    // productivité (heures et objectif par champ, coefficient par profil),
+    // consommables et leurs deux prix unitaires, équipements et forfait,
+    // causes de stand-by. Même régime que les autres référentiels de
+    // configuration (devises, listes_valeurs, hebdo_crj_tarifs_npt) : tout
+    // connecté lit — les menus de saisie et les calculs de performance en
+    // dépendront —, seul un admin écrit.
+    // **Déployée le 27/08/2026.** (Avant cela, la lecture échouait et l'écran
+    // retombait sur le référentiel DATA importé du classeur.)
+    match /peinture_parametres/{id} {
+      allow read: if connecte();
+      allow write: if estAdmin();
+    }
+
+    // Rapport journalier du contrat peinture (27/08/2026, doc/Contrat
+    // peinture.docx : « la création d'un rapport journalier par champ/site »)
+    // — en-tête et total de stand-by déclaré. Même régime que
+    // `peinture_journal_saisie`, dont il est l'en-tête : c'est de la saisie
+    // opérationnelle, pas un réglage d'administration.
+    // **Déployée le 27/08/2026.** (Avant cela, l'enregistrement d'un rapport
+    // était refusé, avec son erreur affichée dans la modale.)
+    match /peinture_rapports/{id} {
+      allow read, write: if connecte();
+    }
+
+    // Suivi de lecture : doc privé, réservé à son propre uid — seule
+    // collection de ce fichier qui n'est pas lisible par tous les connectés
+    // (savoir qui a lu quoi et quand n'a pas à être exposé).
+    match /discussions_lectures/{uid} {
+      allow read: if connecte() && request.auth.uid == uid;
+      allow write: if connecte() && request.auth.uid == uid;
+    }
+  }
+}
